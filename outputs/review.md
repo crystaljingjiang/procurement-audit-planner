@@ -44,9 +44,9 @@ See `outputs/challenges.md` ("For the auditor"): 5 challenges, #2, #3, #4, #6 an
 
 ## Auditor sign-off
 
-- [ ] I have read planning-memo.md, risk-control-matrix.md, audit-program.md,
+- [x] I have read planning-memo.md, risk-control-matrix.md, audit-program.md,
       challenges.md and this review.
-- [ ] I accept the challenges marked "for the auditor" as decided, or have
+- [x] I accept the challenges marked "for the auditor" as decided, or have
       recorded my decision on each below.
 - Decision: Sign off
 - Name: Team 9
