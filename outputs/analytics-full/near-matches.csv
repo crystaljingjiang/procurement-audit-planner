@@ -1,0 +1,10 @@
+supplier_norm,supplier,total_gbp,annualised_estimate,dominant_tag,match_class,match_candidate,match_score
+ANDY AND ES,ANDY AND ES LIMITED,171158.85,684635.4,general_procurement,near_contain,ANDY COX,0.526
+BAILEYS OF NEWBURY,BAILEYS OF NEWBURY,68206.35,272825.4,general_procurement,near_contain,BAILEYS COACHES,0.606
+D J TRAVEL,D J TRAVEL,67966.91,271867.64,general_procurement,near_ratio,DJ TRAVEL,0.947
+GLEN CLEANING COMPANY,Glen Cleaning Company Ltd,92393.12,369572.48,general_procurement,near_contain,GLEN CLEANING,0.765
+HDS EXPRESS TRANSPORT,HDS EXPRESS TRANSPORT LIMITED,1041.6,4166.4,grant,near_contain,SCHOOL EXPRESS,0.514
+KENNET AND AVON GROUP,Kennet & Avon Group,11735.0,46940.0,general_procurement,near_contain,KENNET AND AVON CARS,0.829
+POTTINGERS HIRE SERVICE,POTTINGER'S HIRE SERVICE,9352.5,37410.0,general_procurement,near_ratio,POTTINGERS HIRE SERVICES,0.979
+SDK ENVIRONMENTAL,SDK Environmental Ltd,3095.0,12380.0,general_procurement,near_ratio,SMS ENVIRONMENTAL,0.882
+SWAN ADVOCACY,Swan Advocacy,51216.0,204864.0,care_or_education_placement,near_contain,SWAN ADVOCACY NETWORK,0.765

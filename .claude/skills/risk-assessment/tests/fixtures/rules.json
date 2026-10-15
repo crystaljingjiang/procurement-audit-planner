@@ -1,0 +1,59 @@
+{
+ "_fixture": "subset of outputs/rules.json",
+ "rules": [
+  {
+   "rule_id": "CPR-11",
+   "clause": "6.16",
+   "page": 5,
+   "type": "anti-avoidance",
+   "scope": "all",
+   "condition": "any requirement that is split or disaggregated",
+   "threshold_low": null,
+   "threshold_low_inclusive": null,
+   "threshold_low_ref": null,
+   "threshold_high": null,
+   "threshold_high_inclusive": null,
+   "threshold_high_ref": null,
+   "required_action": "do not split or disaggregate a contract to avoid the Procurement Legislation or these Rules",
+   "approver": null,
+   "evidence_source": "spend-data",
+   "verbatim_quote": "There shall be no artificial splitting or disaggregation of a contract to avoid the application of the provisions of the Procurement Legislation and/or these Rules."
+  },
+  {
+   "rule_id": "CPR-55",
+   "clause": "App B row A",
+   "page": 12,
+   "type": "threshold",
+   "scope": "all",
+   "condition": "Total Value (ex VAT) above £1,000 and less than £25,000",
+   "threshold_low": 1000,
+   "threshold_low_inclusive": false,
+   "threshold_low_ref": null,
+   "threshold_high": 25000,
+   "threshold_high_inclusive": false,
+   "threshold_high_ref": null,
+   "required_action": "seek at least one quote from an appropriate source; no advertising mandated",
+   "approver": null,
+   "evidence_source": "spend-data",
+   "verbatim_quote": "At least one quote must be sought from an appropriate source."
+  },
+  {
+   "rule_id": "CPR-56",
+   "clause": "App B row B1",
+   "page": 12,
+   "type": "threshold",
+   "scope": "goods-services",
+   "condition": "goods or services, Total Value (ex VAT) £25,000 or more and less than the Threshold",
+   "threshold_low": 25000,
+   "threshold_low_inclusive": true,
+   "threshold_low_ref": null,
+   "threshold_high": null,
+   "threshold_high_inclusive": false,
+   "threshold_high_ref": "STATUTORY_THRESHOLD_GOODS_SERVICES",
+   "required_action": "send invitations to quote via the Procurement Portal to at least three appropriate sources, including at least one SME or VCSE and one local supplier where appropriate and possible; publish a contract notice on the CDP",
+   "approver": null,
+   "evidence_source": "spend-data",
+   "verbatim_quote": "Invitations to quote must be sent via the Procurement Portal to at least three appropriate sources, including at least one SME* or VCSE* organisation and one local supplier ****(where appropriate and possible**)."
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+- [Builder checks](builder_checks.md) — how build_register.py tests L3/comparator/signals/typed figures; path pitfalls

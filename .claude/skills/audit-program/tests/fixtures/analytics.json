@@ -1,0 +1,42 @@
+{
+ "_fixture": "subset of outputs/analytics.json for build_pack tests",
+ "population": {
+  "months_covered": 3
+ },
+ "contracts": {
+  "register_present": false
+ },
+ "tests": {
+  "split_purchases": {
+   "parameters": {
+    "window_days": 30
+   },
+   "per_threshold": [
+    {
+     "threshold": 25000,
+     "windows": 179,
+     "headline_general_procurement": {
+      "windows": 39,
+      "suppliers": 39,
+      "gbp": 2221901.37
+     }
+    }
+   ]
+  },
+  "duplicates": {
+   "parameters": {
+    "max_gap_days": 7
+   },
+   "per_tier": {
+    "different_time": {
+     "by_tag": {
+      "general_procurement": {
+       "groups": 35,
+       "gbp_beyond_first": 299374.24
+      }
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,1 @@
+- [Challenge craft](feedback_challenge_craft.md) — what the planner accepts vs routes to the auditor; round-2 sources; QA timing

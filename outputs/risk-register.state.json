@@ -1,0 +1,270 @@
+{
+ "revision": 1,
+ "generated_at": "2026-10-14T16:42:30",
+ "risks": {
+  "R-01": {
+   "title": "Payments just below the {{$.tests.threshold_clustering.per_threshold[?threshold==25000].threshold|gbp}} quotation threshold",
+   "status": "proposed",
+   "likelihood": 2,
+   "uplift": null,
+   "impact": 3,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "For the general procurement payments in the band [metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].band_by_tag.general_procurement.n], confirm the total contract value of the underlying requirement and whether the quotation route required by [rule:CPR-56] or [rule:CPR-57] was followed.",
+   "citations": [
+    "history:IMP-3-FIN",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==2500000].band_count",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].band_by_tag.general_procurement.gbp",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].band_by_tag.general_procurement.n",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].band_count",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].comparator_count",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==500000].band_count",
+    "rule:CPR-06",
+    "rule:CPR-53",
+    "rule:CPR-54",
+    "rule:CPR-55",
+    "rule:CPR-56",
+    "rule:CPR-57",
+    "rule:CPR-66"
+   ]
+  },
+  "R-02": {
+   "title": "Same-supplier payments within {{$.tests.split_purchases.parameters.window_days|int}} days that together cross a competition threshold",
+   "status": "proposed",
+   "likelihood": 3,
+   "uplift": null,
+   "impact": 5,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "For the highest-value general procurement windows [metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.gbp], establish whether the payments sit under one let contract (which explains the pattern) or are separate orders for one requirement, and if the latter whether the route in [rule:CPR-56] or [rule:CPR-58] was followed [rule:CPR-11].",
+   "citations": [
+    "history:AUD-01",
+    "history:IMP-5-FIN",
+    "metric:$.tests.split_purchases.per_threshold[?threshold==25000].by_tag.care_or_education_placement.windows",
+    "metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.gbp",
+    "metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.windows",
+    "metric:$.tests.split_purchases.per_threshold[?threshold==500000].headline_general_procurement.windows",
+    "metric:$.tests.threshold_clustering.per_threshold[?threshold==25000].comparator_count",
+    "rule:CPR-11",
+    "rule:CPR-56",
+    "rule:CPR-58",
+    "rule:CPR-66"
+   ]
+  },
+  "R-03": {
+   "title": "High-value general procurement suppliers with no Contracts Finder notice found",
+   "status": "proposed",
+   "likelihood": 3,
+   "uplift": null,
+   "impact": 5,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "Request the council's contract register [rule:CPR-07] and match the highest-value suppliers with no notice found [metric:$.tests.off_contract.headline_general_procurement_no_notice_found.annualised_estimate_gbp]; for any without a contract, confirm the procurement route or approved exception [rule:CPR-56] [rule:CPR-19].",
+   "citations": [
+    "history:IMP-5-FIN",
+    "metric:$.contracts.register_present",
+    "metric:$.contracts.rows_dropped_case_variant_of_council_name",
+    "metric:$.tests.off_contract.headline_general_procurement_no_notice_found.annualised_estimate_gbp",
+    "metric:$.tests.off_contract.headline_general_procurement_no_notice_found.suppliers",
+    "rule:CPR-07",
+    "rule:CPR-19",
+    "rule:CPR-56"
+   ]
+  },
+  "R-04": {
+   "title": "Repeated same-amount payments to one supplier within {{$.tests.duplicates.parameters.max_gap_days|int}} days",
+   "status": "proposed",
+   "likelihood": 3,
+   "uplift": null,
+   "impact": 3,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "For the general procurement groups [metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.groups], trace each payment to a distinct invoice and order [rule:CPR-30] and confirm any recovery of duplicates.",
+   "citations": [
+    "history:AUD-11",
+    "history:IMP-3-FIN",
+    "metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.gbp_beyond_first",
+    "metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.groups",
+    "metric:$.tests.duplicates.per_tier.same_timestamp.by_tag.general_procurement.groups",
+    "rule:CPR-30"
+   ]
+  },
+  "R-05": {
+   "title": "Spend with suppliers whose only published notices ended before the spend window",
+   "status": "proposed",
+   "likelihood": 2,
+   "uplift": null,
+   "impact": 4,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "For each supplier listed [metric:$.tests.expired_notice_spend.suppliers], obtain the current contract or the approved extension [rule:CPR-63].",
+   "citations": [
+    "history:IMP-4-FIN",
+    "metric:$.contracts.register_present",
+    "metric:$.contracts.rows_dropped_case_variant_of_council_name",
+    "metric:$.tests.expired_notice_spend.annualised_estimate_gbp",
+    "metric:$.tests.expired_notice_spend.suppliers",
+    "rule:CPR-63"
+   ]
+  },
+  "R-06": {
+   "title": "Annualised spend above the published award value for single-supplier notices",
+   "status": "proposed",
+   "likelihood": 2,
+   "uplift": null,
+   "impact": 5,
+   "dimension": "DIM-FIN",
+   "scope": "in",
+   "focus": "For flagged suppliers [metric:$.tests.spend_vs_award.flagged], compare cumulative spend with the contract value and obtain any approved variation [rule:CPR-64] [rule:CPR-65].",
+   "citations": [
+    "history:IMP-5-FIN",
+    "metric:$.contracts.rows_dropped_case_variant_of_council_name",
+    "metric:$.tests.spend_vs_award.flagged",
+    "metric:$.tests.spend_vs_award.flagged_annualised_estimate_gbp",
+    "metric:$.tests.spend_vs_award.suppliers_compared",
+    "rule:CPR-64",
+    "rule:CPR-65"
+   ]
+  },
+  "R-07": {
+   "title": "Implementation of agreed actions from prior procurement audits is not evidenced in the public papers",
+   "status": "proposed",
+   "likelihood": 1,
+   "uplift": null,
+   "impact": 2,
+   "dimension": "DIM-CMP",
+   "scope": "in",
+   "focus": "Request the action tracker for the contract letting audit [history:AUD-01] and confirm the status of any agreed actions [history:GAP-01].",
+   "citations": [
+    "history:AUD-01",
+    "history:GAP-01",
+    "history:IMP-2-CMP"
+   ]
+  }
+ },
+ "dropped": [],
+ "applied": {
+  "R-01": [
+   "Approve",
+   ""
+  ],
+  "R-02": [
+   "Approve",
+   ""
+  ],
+  "R-03": [
+   "Approve",
+   ""
+  ],
+  "R-04": [
+   "Approve",
+   ""
+  ],
+  "R-05": [
+   "Approve",
+   ""
+  ],
+  "R-06": [
+   "Approve",
+   ""
+  ],
+  "R-07": [
+   "Approve",
+   ""
+  ]
+ },
+ "revision_changes": {},
+ "revision_overrides": {},
+ "scores": {
+  "R-01": {
+   "L": 2,
+   "L_base": 2,
+   "I": 3,
+   "score": 6,
+   "matrix_label": "Moderate",
+   "band": "Moderate",
+   "band_id": "BAND-MODERATE",
+   "flags": [],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-02": {
+   "L": 3,
+   "L_base": 3,
+   "I": 5,
+   "score": 15,
+   "matrix_label": "Extreme",
+   "band": "Extreme (Red)",
+   "band_id": "BAND-EXTREME",
+   "flags": [],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-03": {
+   "L": 3,
+   "L_base": 3,
+   "I": 5,
+   "score": 15,
+   "matrix_label": "Extreme",
+   "band": "Extreme (Red)",
+   "band_id": "BAND-EXTREME",
+   "flags": [],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-04": {
+   "L": 3,
+   "L_base": 3,
+   "I": 3,
+   "score": 9,
+   "matrix_label": "High",
+   "band": "Medium - High (Amber)",
+   "band_id": "BAND-MEDIUM-HIGH",
+   "flags": [
+    "‡"
+   ],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-05": {
+   "L": 2,
+   "L_base": 2,
+   "I": 4,
+   "score": 8,
+   "matrix_label": "High",
+   "band": "Medium - High (Amber)",
+   "band_id": "BAND-MEDIUM-HIGH",
+   "flags": [],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-06": {
+   "L": 2,
+   "L_base": 2,
+   "I": 5,
+   "score": 10,
+   "matrix_label": "High",
+   "band": "Medium - High (Amber)",
+   "band_id": "BAND-MEDIUM-HIGH",
+   "flags": [
+    "‡"
+   ],
+   "scope": "in",
+   "status": "proposed"
+  },
+  "R-07": {
+   "L": 1,
+   "L_base": 1,
+   "I": 2,
+   "score": 2,
+   "matrix_label": "Low",
+   "band": "Low (Green)",
+   "band_id": "BAND-LOW",
+   "flags": [],
+   "scope": "in",
+   "status": "proposed"
+  }
+ },
+ "all_decided": true,
+ "register_sha256": "545812b8a3c42b864a7d75fe0461c43b2267a116d7912fad67d1f899a0a28f7a"
+}

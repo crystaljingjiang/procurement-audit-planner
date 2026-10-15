@@ -1,0 +1,2 @@
+- [Build pack pitfalls](build-pack-pitfalls.md) — typed-figure FAILs (S.151), memo cites don't count for coverage, near-match threshold filter, n
+- [Planner protocol lessons](planner-protocol-lessons.md) — builder-gap QA fails go to lead; PASS+BLOCKED means wait for challenger

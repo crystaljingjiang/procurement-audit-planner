@@ -1,0 +1,40 @@
+{
+  "generated_at": "fixture",
+  "revision": null,
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "title": "Same-supplier payments within {{$.tests.split_purchases.parameters.window_days|int}} days that together cross the {{$.tests.split_purchases.per_threshold[?threshold==25000].threshold|gbp}} threshold",
+      "theme": "split purchases", "status": "proposed",
+      "description": "Indicator that one requirement may have been bought in parts [rule:CPR-11].",
+      "rule_ids": ["CPR-11", "CPR-56"],
+      "likelihood": {"base_score": 3, "rubric_level": "L3",
+        "justification": "{{$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.windows|int}} general procurement windows [metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.windows].",
+        "signals": [{"metric": "$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.windows", "op": ">", "than": 0}],
+        "uplift": null},
+      "impact": {"score": 5, "dimension": "DIM-FIN",
+        "financial_basis": "$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.gbp",
+        "justification": "Value in the windows [metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.gbp] is in the top band [history:IMP-5-FIN]."},
+      "evidence": [],
+      "proposed_focus": "Test the highest-value windows for one requirement bought in parts [rule:CPR-56].",
+      "proposed_scope": "in", "scope_reason": "General procurement signal [rule:CPR-11]."
+    },
+    {
+      "risk_id": "R-02",
+      "title": "Same amount paid to one supplier twice within a week",
+      "theme": "duplicates", "status": "proposed",
+      "description": "Indicator of possible duplicate payment [rule:CPR-30].",
+      "rule_ids": ["CPR-30"],
+      "likelihood": {"base_score": 3, "rubric_level": "L3",
+        "justification": "Repeat amounts in general procurement [metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.groups].",
+        "signals": [{"metric": "$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.groups", "op": ">", "than": 0}],
+        "uplift": null},
+      "impact": {"score": 3, "dimension": "DIM-FIN",
+        "financial_basis": "$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.gbp_beyond_first",
+        "justification": "Value beyond the first payment [metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.gbp_beyond_first] [history:IMP-3-FIN]."},
+      "evidence": [],
+      "proposed_focus": "Trace each payment to a distinct invoice [rule:CPR-30].",
+      "proposed_scope": "in", "scope_reason": "General procurement signal [rule:CPR-30]."
+    }
+  ]
+}

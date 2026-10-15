@@ -1,0 +1,60 @@
+{
+ "_fixture": "subset of outputs/analytics.json for build_register tests",
+ "tests": {
+  "split_purchases": {
+   "per_threshold": [
+    {
+     "threshold": 25000,
+     "windows": 179,
+     "headline_general_procurement": {
+      "windows": 39,
+      "suppliers": 39,
+      "gbp": 2221901.37
+     }
+    }
+   ],
+   "parameters": {
+    "window_days": 30
+   }
+  },
+  "threshold_clustering": {
+   "per_threshold": [
+    {
+     "threshold": 25000,
+     "band_count": 46,
+     "comparator_count": 52,
+     "band_by_tag": {
+      "care_or_education_placement": {
+       "n": 30,
+       "gbp": 718249.61
+      },
+      "general_procurement": {
+       "n": 10,
+       "gbp": 239427.82
+      },
+      "grant": {
+       "n": 5,
+       "gbp": 118475.24
+      },
+      "premises_non_procurement": {
+       "n": 1,
+       "gbp": 23660.0
+      }
+     }
+    }
+   ]
+  },
+  "duplicates": {
+   "per_tier": {
+    "different_time": {
+     "by_tag": {
+      "general_procurement": {
+       "groups": 35,
+       "gbp_beyond_first": 299374.24
+      }
+     }
+    }
+   }
+  }
+ }
+}

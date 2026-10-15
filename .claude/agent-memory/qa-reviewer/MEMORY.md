@@ -1,0 +1,1 @@
+- [Challenge rows close after pack](challenge-rows-close-after-pack.md) — open-row trace FAILs go to challenger; planner still gets PASS; re-run after both DONE

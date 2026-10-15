@@ -1,0 +1,1 @@
+- [Extraction and checker quirks](extraction-and-checker-quirks.md) — build history.json via script from layout text; table rebuild and verify_history.py pitfalls

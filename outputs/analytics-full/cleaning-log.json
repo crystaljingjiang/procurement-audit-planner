@@ -1,0 +1,109 @@
+{
+ "regexes": {
+  "exclusions": {
+   "redacted_supplier": "^\\s*redacted\\s*$",
+   "pension_statutory": "LGPS|PENSION|SUPERANNUATION",
+   "inter_authority_supplier": "\\b(?:COUNCIL|BOROUGH|COUNTY|CNCL|NHS|POLICE|FIRE AUTHORITY|FIRE AND RESCUE|HMRC|HM REVENUE|DEPARTMENT FOR|MINISTRY OF)\\b",
+   "inter_authority_narrative": "JOINT ARRANGEMENTS",
+   "inter_authority_unless_narrative": "^\\s*Private Contractors\\s*$"
+  },
+  "tags": {
+   "care_or_education_placement": {
+    "service": "^(Adult Social Care|Children's Social Care|Education)",
+    "narrative": "^\\s*(Private Contractors|Other agencies|Voluntary Associations)\\s*$"
+   },
+   "grant": "GRANT",
+   "agency_staff": "AGENCY",
+   "premises_non_procurement": "RENT|RATES|WATER RATES|LEASE",
+   "order": "first match wins"
+  }
+ },
+ "stops": [],
+ "excluded": {
+  "redacted_supplier": {
+   "rows": 2015,
+   "gbp": 2746746.71,
+   "reason": "supplier recorded as 'Redacted' (many payees under one label); unusable in supplier-level tests"
+  },
+  "pension_statutory": {
+   "rows": 12,
+   "gbp": 9235814.93,
+   "reason": "narrative indicates pension/LGPS/superannuation: statutory, not procurement"
+  },
+  "inter_authority": {
+   "rows": 46,
+   "gbp": 1666587.84,
+   "reason": "payee is another public body (council/NHS/police/fire/HMRC/government department) or joint arrangements; not procurement (Private Contractors narrative kept)"
+  }
+ },
+ "population": {
+  "files": [
+   "Over500_2026_P02_-_published.xlsx",
+   "Over500_2026_P03_-_published.xlsx",
+   "Over500_2026_P04_-_published.xlsx"
+  ],
+  "header_excel_row": {
+   "Over500_2026_P02_-_published.xlsx": 1,
+   "Over500_2026_P03_-_published.xlsx": 2,
+   "Over500_2026_P04_-_published.xlsx": 2
+  },
+  "rows_raw": 10607,
+  "rows_excluded": 2073,
+  "rows_after_exclusions": 8534,
+  "date_min": "2026-05-01",
+  "date_max": "2026-07-31",
+  "months_covered": 3,
+  "rows_per_file_month": {
+   "Over500_2026_P02_-_published.xlsx|2026-05": 2891,
+   "Over500_2026_P02_-_published.xlsx|2026-06": 1,
+   "Over500_2026_P03_-_published.xlsx|2026-06": 3547,
+   "Over500_2026_P04_-_published.xlsx|2026-07": 4168
+  }
+ },
+ "register_present": false,
+ "contracts": {
+  "contracts_present": true,
+  "warnings": [
+   "6 notice rows dropped whose Organisation Name is a case variant of the council's name (['WEST BERKSHIRE COUNCIL']); spec keeps only exact 'West Berkshire Council'/'West Berkshire'. Auditor to decide whether to include them (would add notices to the match set).",
+   "publication year 2021 has 2 notices, under half the median per year: check export completeness",
+   "publication year 2026 (current, partial year) has 4 notices, under half the median per year: check export completeness"
+  ],
+  "rows_in_file": 150,
+  "rows_for_council": 135,
+  "rows_dropped_other_buyers": 15,
+  "org_names_kept": {
+   "West Berkshire Council": 115,
+   "West Berkshire": 20
+  },
+  "org_names_dropped": {
+   "WEST BERKSHIRE COUNCIL": 6,
+   "Ministry of Defence": 5,
+   "Westworks Procurement Ltd": 1,
+   "SOUTHAMPTON CITY COUNCIL": 1,
+   "CITY OF BRADFORD METROPOLITAN DISTRICT COUNCIL": 1,
+   "Health Education England": 1
+  },
+  "rows_dropped_case_variant_of_council_name": 6,
+  "notices": 135,
+  "notices_without_supplier": 0,
+  "notice_supplier_pairs": 204,
+  "distinct_suppliers": 138,
+  "active_in_window": 61,
+  "ended_before_window": 74,
+  "active_notice_supplier_pairs": 130,
+  "zero_value_awards": 7,
+  "rows_per_year": {
+   "2021": 2,
+   "2022": 10,
+   "2023": 39,
+   "2024": 52,
+   "2025": 28,
+   "2026": 4
+  },
+  "published_range": [
+   "2021-12-10",
+   "2026-09-09"
+  ],
+  "window_start_used": "2026-05-01"
+ }
+}

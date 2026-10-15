@@ -1,0 +1,675 @@
+supplier_norm,supplier,total_gbp,n_payments,services,narratives,annualised estimate,dominant_tag,n_tags,spans_several_tags,match_class,match_candidate,match_score
+VOLKERHIGHWAYS,VolkerHighways Ltd,7377922.21,126,Environment,Payment to contractor; Private Contractors; Projects or Minor Works,29511688.84,general_procurement,1,False,none,,0.4
+VEOLIA ES WEST BERKSHIRE,VEOLIA ES WEST BERKSHIRE LTD (CHAPS ONLY),6186065.04,3,Environment,Private Contractors,24744260.16,general_procurement,1,False,none,,0.565
+MILLBROOK HEALTHCARE,Millbrook Healthcare Limited,3459365.35,4,"Finance, Property & Procurement",Private Contractors,13837461.4,general_procurement,1,False,none,,0.474
+BUPA CARE SERVICES,BUPA Care Services,1874166.5,370,Adult Social Care,Private Contractors,7496666.0,care_or_education_placement,1,False,none,,0.622
+COMENSURA,Comensura Ltd,1275552.15,14,Strategy & Governance,Agency & Temporary Staff,5102208.6,agency_staff,1,False,none,,0.48
+AFFINITY TRUST SUPPORT,Affinity Trust Support Ltd,1098336.76,263,Adult Social Care,Private Contractors,4393347.04,care_or_education_placement,1,False,none,,0.474
+OAKLANDS SEN SCHOOL BERKSHIRE,Oaklands SEN School Berkshire Limited,1026661.89,54,Education (DSG Funded) & Other Education Grants,Other agencies,4106647.56,care_or_education_placement,1,False,none,,0.473
+RUSKIN MILL TRUST,RUSKIN MILL TRUST,795197.64,9,Adult Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Private Contractors; Voluntary Associations,3180790.56,care_or_education_placement,1,False,none,,0.429
+AMEGREEN CHILDRENS SERVICES,Amegreen Childrens Services,750437.3300000001,27,Children's Social Care,Private Contractors,3001749.3200000003,care_or_education_placement,1,False,none,,0.577
+BRIGHTER LIVING CARE,Brighter Living Care Ltd,747183.47,74,Adult Social Care,Private Contractors,2988733.88,care_or_education_placement,1,False,none,,0.526
+SUKHBIR SINGH AND HARVINDER SINGH,Sukhbir Singh and Harvinder Singh T/A Calcot Services for Children (CSFC),639381.6,26,Children's Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Private Contractors,2557526.4,care_or_education_placement,1,False,none,,0.433
+WE ARE CARE COMPANY,We Are The Care Company Ltd,589012.3099999999,349,Adult Social Care,Private Contractors,2356049.2399999998,care_or_education_placement,1,False,none,,0.514
+BETTER GROUP,The Better Group Ltd,588490.08,26,Adult Social Care; Adult Social Care - Transformation Projects; Children's Social Care; Education & SEND,IT; Payment to contractor; Training,2353960.32,general_procurement,1,False,none,,0.545
+GCH,GCH (Alder) Ltd t/a Hungerford Care Home,571361.01,109,Adult Social Care,Private Contractors,2285444.04,care_or_education_placement,1,False,none,,0.5
+PHOENIX CHILD CARE GRANGE SCHOOL,Phoenix Child Care Limited -The Grange School,567708.85,25,Education (DSG Funded) & Other Education Grants,Other agencies,2270835.4,care_or_education_placement,1,False,none,,0.458
+VOYAGE CARE,VOYAGE CARE,554678.88,80,Adult Social Care,Private Contractors,2218715.52,care_or_education_placement,1,False,none,,0.556
+SOFTWAREONE,SoftwareONE UK Ltd,522978.62,4,"Transformation, Customer & ICT",IT; Subscriptions,2091914.48,general_procurement,1,False,none,,0.667
+LIVITY LIFE,Livity Life Ltd,513074.85,9,"Finance, Property & Procurement",Private Contractors,2052299.4,general_procurement,1,False,none,,0.48
+WEST BERKSHIRE MENCAP,WEST BERKSHIRE MENCAP,505286.21,115,Adult Social Care; Children's Social Care; Education & SEND,Grants; Private Contractors; Voluntary Associations,2021144.84,care_or_education_placement,2,True,none,,0.512
+PURLEY PARK TRUST,PURLEY PARK TRUST LTD,471283.82,94,Adult Social Care,Private Contractors; Voluntary Associations,1885135.28,care_or_education_placement,1,False,none,,0.545
+ACORN CARE AND EDUCATION,ACORN CARE & EDUCATION LTD,462897.76,19,Education (DSG Funded) & Other Education Grants,Other agencies,1851591.04,care_or_education_placement,1,False,none,,0.62
+JUBILEE DAY NURSERY,JUBILEE DAY NURSERY,408594.55,3,Education (DSG Funded) & Other Education Grants,Grants,1634378.2,grant,1,False,none,,0.438
+NEWBURY AND DISTRICT,Newbury & District Ltd,388779.88,23,Education & SEND; Environment,Public Transport; Transport Hire,1555119.52,general_procurement,1,False,exact,NEWBURY AND DISTRICT,1.0
+E W BEARD,E W BEARD LTD,382652.7,20,Community Services; Development & Housing; Education & SEND,Corporate R&M; Payment to contractor,1530610.8,general_procurement,1,False,none,,0.444
+CAMINO CARE,Camino Care,370095.54000000004,4,Children's Social Care,Private Contractors,1480382.1600000001,care_or_education_placement,1,False,none,,0.667
+SM VOICE ADVOCACY,SM Voice Advocacy Limited,347137.12,62,Adult Social Care,Private Contractors,1388548.48,care_or_education_placement,1,False,none,,0.526
+ABI SUPPORT,Abi-support Ltd,343415.58999999997,147,Adult Social Care,Private Contractors,1373662.3599999999,care_or_education_placement,1,False,none,,0.519
+CARE SERVICES TO YOU,Care Services To You,335856.78,14,Children's Social Care,Private Contractors,1343427.12,care_or_education_placement,1,False,none,,0.545
+JOHAV CARE SUPPORT HEALTHCARE,Johav Care support Healthcare Limited,332659.28,54,Adult Social Care; Children's Social Care,Private Contractors,1330637.12,care_or_education_placement,1,False,none,,0.444
+ASCIA CONSTRUCTION,ASCIA CONSTRUCTION LIMITED,332579.29,1,Education & SEND,Payment to contractor,1330317.16,general_procurement,1,False,exact,ASCIA CONSTRUCTION,1.0
+DIMENSIONS,DIMENSIONS (NSO) LTD,332203.21,66,Adult Social Care,Private Contractors; Rents,1328812.84,care_or_education_placement,2,True,none,,0.5
+CHANGING LIVES CARE GROUP,Changing Lives Care Group Ltd,331599.99,6,Children's Social Care,Private Contractors,1326399.96,care_or_education_placement,1,False,none,,0.45
+ACRES OF FUN DAY NURSERY AND PRE SCHOOL,ACRES OF FUN DAY NURSERY AND PRE SCHOOL,323872.96,1,Education (DSG Funded) & Other Education Grants,Grants,1295491.84,grant,1,False,none,,0.465
+ROCKING HORSE DAY NURSERY NEWBURY RACECOURSE,ROCKING HORSE DAY NURSERY - NEWBURY RACECOURSE PLC,320463.5,2,Education (DSG Funded) & Other Education Grants,Grants,1281854.0,grant,1,False,none,,0.441
+NEC SOFTWARE SOLUTIONS,NEC SOFTWARE SOLUTIONS UK LIMITED,314383.57,10,"Finance, Property & Procurement",IT,1257534.28,general_procurement,1,False,exact,NEC SOFTWARE SOLUTIONS,1.0
+CAMBIAN AUTISM SERVICES,CAMBIAN AUTISM SERVICES LIMITED,310109.53,15,Children's Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Private Contractors,1240438.12,care_or_education_placement,1,False,none,,0.638
+FOCUS SUPPORT,FOCUS SUPPORT LTD,302627.43,30,Adult Social Care,Private Contractors,1210509.72,care_or_education_placement,1,False,none,,0.385
+TRANSPARENT CARE,Transparent Care Ltd,300764.85,50,Adult Social Care,Private Contractors,1203059.4,care_or_education_placement,1,False,none,,0.537
+SLOUGH BOROUGH COUNCIL,SLOUGH BOROUGH COUNCIL,296177.15,1,"Finance, Property & Procurement",Private Contractors,1184708.6,general_procurement,1,False,none,,0.429
+CARE COMMUNITY PARTNERSHIPS,CARE UK Community Partnerships Ltd,293507.99,53,Adult Social Care,Private Contractors,1174031.96,care_or_education_placement,1,False,none,,0.476
+SPRING VALLEY CHILDRENS CARE HOMES,Spring Valley Children's Care Homes ltd,293202.85,10,Children's Social Care,Private Contractors,1172811.4,care_or_education_placement,1,False,none,,0.489
+ENGAGING POTENTIAL,Engaging Potential Ltd,272549.17,1,Education (DSG Funded) & Other Education Grants,Other agencies,1090196.68,care_or_education_placement,1,False,none,,0.514
+CREATIVE SUPPORT,CREATIVE SUPPORT,265867.7,63,Adult Social Care,Private Contractors; Private Contractors Additional Cost,1063470.8,care_or_education_placement,2,True,none,,0.438
+TIGERS DAY NURSERY,TIGERS DAY NURSERY,244339.25,4,Education (DSG Funded) & Other Education Grants,Grants; Other agencies,977357.0,grant,2,True,none,,0.524
+CHOICE,Choice LTD,242457.06,21,Adult Social Care,Private Contractors,969828.24,care_or_education_placement,1,False,none,,0.545
+TIGERS AT THEALE DAY NURSERY,Tigers at Theale Day Nursery,240745.51,2,Education (DSG Funded) & Other Education Grants,Grants,962982.04,grant,1,False,none,,0.5
+BROOKFIELDS SCHOOL,BROOKFIELDS SCHOOL,236744.0,1,Education (DSG Funded) & Other Education Grants,Grants,946976.0,grant,1,False,none,,0.429
+THINKEMPATHY,Thinkempathy,230324.68,31,Adult Social Care,Private Contractors,921298.72,care_or_education_placement,1,False,none,,0.462
+WOODLANDS DAY NURSERY,WOODLANDS DAY NURSERY,221334.09,2,Education (DSG Funded) & Other Education Grants,Grants,885336.36,grant,1,False,none,,0.45
+SUPERCARE RESIDENTIAL,Supercare Residential Ltd,217857.14,4,Children's Social Care,Private Contractors,871428.56,care_or_education_placement,1,False,none,,0.444
+BLEEP 360 CARE,Bleep 360 Care Limited,214048.91999999998,9,Adult Social Care,Private Contractors,856195.6799999999,care_or_education_placement,1,False,none,,0.533
+TWO SAINTS,TWO SAINTS LTD,213288.44999999998,7,Development & Housing,Private Contractors,853153.7999999999,general_procurement,1,False,exact,TWO SAINTS,1.0
+UNITED DOMCILIARY AND SUPPORT SERVICES,UNITED DOMCILIARY AND SUPPORT SERVICES,210194.24,38,Adult Social Care,Private Contractors,840776.96,care_or_education_placement,1,False,none,,0.667
+ADDRESS ENTERPRISE,Address Enterprise Ltd,204775.82,113,Adult Social Care,Private Contractors,819103.28,care_or_education_placement,1,False,none,,0.483
+CYGNET CARE SERVICES,Cygnet Care Services Ltd,204622.43,24,Adult Social Care,Private Contractors,818489.72,care_or_education_placement,1,False,none,,0.636
+JUBILEE GEMS,JUBILEE GEMS,204360.24,1,Education (DSG Funded) & Other Education Grants,Grants,817440.96,grant,1,False,none,,0.444
+PURESOUL CARE,PureSoul Care Ltd,203589.24,142,Adult Social Care,Private Contractors,814356.96,care_or_education_placement,1,False,none,,0.583
+MARY HARE SCHOOL,MARY HARE SCHOOL,201697.0,14,Education (DSG Funded) & Other Education Grants,Other agencies,806788.0,care_or_education_placement,1,False,none,,0.439
+LIAISE LODDON,LIAISE LODDON LTD,200171.96,17,Adult Social Care,Private Contractors,800687.84,care_or_education_placement,1,False,none,,0.48
+ENIRO CARE,Eniro Care Ltd,195609.88,115,Adult Social Care,Private Contractors,782439.52,care_or_education_placement,1,False,none,,0.636
+HEART AND HOME LIVING,Heart and Home Living Ltd.,194740.0,3,Children's Social Care,Private Contractors,778960.0,care_or_education_placement,1,False,none,,0.513
+LITTLE ME DAY NURSERY,LITTLE ME DAY NURSERY,190678.01,1,Education (DSG Funded) & Other Education Grants,Grants,762712.04,grant,1,False,none,,0.438
+SIKANDAR HAYAT,Sikandar Hayat t/a Prompt Cars,187250.5,40,Children's Social Care; Education & SEND,Transport Hire,749002.0,general_procurement,1,False,none,,0.452
+ARCH FUTURES,Arch Futures,177849.59999999998,6,Adult Social Care,Private Contractors,711398.3999999999,care_or_education_placement,1,False,none,,0.48
+POSITIVE FOOTSTEPS,POSITIVE FOOTSTEPS,173220.0,6,Children's Social Care,Private Contractors,692880.0,care_or_education_placement,1,False,none,,0.429
+ACHIEVE TOGETHER,Achieve Together Limited,172385.16,18,Adult Social Care,Private Contractors; Voluntary Associations,689540.64,care_or_education_placement,1,False,none,,0.444
+FIDELITY HEALTHCARE,Fidelity Healthcare Ltd t/a Marlborough Lodge Care Home,172168.19,39,Adult Social Care,Private Contractors,688672.76,care_or_education_placement,1,False,none,,0.457
+CEDAR HOPE CARE SERVICES,Cedar Hope Care Services Ltd,171656.19,30,Adult Social Care; Children's Social Care,Private Contractors,686624.76,care_or_education_placement,1,False,none,,0.625
+ANDY AND ES,ANDY AND ES LIMITED,171158.85,3,Education & SEND,Payment to contractor,684635.4,general_procurement,1,False,near_contain,ANDY COX,0.526
+GRACEWELL HEALTHCARE,Gracewell Healthcare Ltd,170962.33,26,Adult Social Care,Private Contractors,683849.32,care_or_education_placement,1,False,none,,0.516
+JUST LEARNING TA BUSY BEES NEWBURY,JUST LEARNING LTD/TA BUSY BEES@NEWBURY,169624.35,2,Education (DSG Funded) & Other Education Grants,Grants,678497.4,grant,1,False,none,,0.448
+WEAVAWAY TRAVEL,WEAVAWAY TRAVEL LTD,169351.6,45,Education & SEND,Transport Hire,677406.4,general_procurement,1,False,exact,WEAVAWAY TRAVEL,1.0
+FD TRAVELS,FD TRAVELS LIMITED T/A SCHOOL EXPRESS,165324.47,70,Education & SEND,Transport Hire,661297.88,general_procurement,1,False,exact,FD TRAVELS,1.0
+PARKVIEW CARE,Parkview Care (Broadstairs) Limited,164912.12,4,Children's Social Care,Private Contractors,659648.48,care_or_education_placement,1,False,none,,0.64
+ENRICHED CARE SUPPORT SERVICES,Enriched Care Support Services Ltd,163424.21,41,Adult Social Care,Private Contractors,653696.84,care_or_education_placement,1,False,none,,0.691
+ELIOR,Elior UK PLC,161415.59,9,Adult Social Care,Catering,645662.36,general_procurement,1,False,none,,0.462
+BROADMEAD RESTHOME,BROADMEAD RESTHOME LTD,161353.42,24,Adult Social Care,Private Contractors,645413.68,care_or_education_placement,1,False,none,,0.581
+COMFORT HARMONY CARE,Comfort Harmony Care Ltd,159139.72,89,Adult Social Care,Private Contractors,636558.88,care_or_education_placement,1,False,none,,0.533
+BRIGHTER BEGINNINGS,Brighter Beginnings Ltd.,158108.59,3,Children's Social Care,Private Contractors,632434.36,care_or_education_placement,1,False,none,,0.5
+NOUBLES HEALTHCARE,Noubles Healthcare Ltd,156580.61,109,Adult Social Care,Private Contractors,626322.44,care_or_education_placement,1,False,none,,0.444
+ALL CARE,All-Care (GB) Ltd,156050.59,166,Adult Social Care,Private Contractors,624202.36,care_or_education_placement,1,False,none,,0.737
+DOWNVIEW RESIDENTIAL HOME,DOWNVIEW RESIDENTIAL HOME LIMITED,155202.92,27,Adult Social Care,Private Contractors,620811.68,care_or_education_placement,1,False,none,,0.429
+NEXT STEP SERVICES,Next Step Services,151581.82,44,Children's Social Care,Private Contractors,606327.28,care_or_education_placement,1,False,none,,0.619
+QUACKERS DAY NURSERY,QUACKERS DAY NURSERY,149005.08,1,Education (DSG Funded) & Other Education Grants,Grants,596020.32,grant,1,False,none,,0.424
+VALUED CARE SUPPORTED LIVING,Valued Care Supported Living,145597.89,34,Adult Social Care,Private Contractors,582391.56,care_or_education_placement,1,False,none,,0.465
+BBOWT,BBOWT,144317.43,3,Environment,Contributions; Payment to contractor,577269.72,general_procurement,1,False,none,,0.4
+HUCKLEBERRY HOUSE,Huckleberry House,144118.39,5,Education (DSG Funded) & Other Education Grants,Other agencies,576473.56,care_or_education_placement,1,False,none,,0.389
+CARE OUTLOOK,Care Outlook Ltd,141432.71,97,Adult Social Care,Private Contractors,565730.84,care_or_education_placement,1,False,exact,CARE OUTLOOK,1.0
+PASKAY,PASKAY LIMITED,140375.08000000002,3,Education (DSG Funded) & Other Education Grants,Grants,561500.3200000001,grant,1,False,none,,0.421
+UTOPIA SUPPORTED HOUSING,Utopia Supported Housing Ltd,140196.02,10,Children's Social Care,Private Contractors,560784.08,care_or_education_placement,1,False,none,,0.465
+A2 DOMINION,A2 Dominion,136612.06,2,Adult Social Care,Premises Insurance; Rents,546448.24,premises_non_procurement,2,True,none,,0.486
+RADIANT CARE HOMES,Radiant Care Homes Ltd.,135372.14,12,Children's Social Care,Private Contractors,541488.56,care_or_education_placement,1,False,none,,0.581
+FLEDGLINGS DAY NURSERY,FLEDGLINGS DAY NURSERY T/A FLEDGLINGS LODGE,134007.39,3,Education (DSG Funded) & Other Education Grants,Grants,536029.56,grant,1,False,none,,0.421
+BRAMLEY CARE,Bramley Care Ltd,133672.24,6,Children's Social Care,Private Contractors,534688.96,care_or_education_placement,1,False,none,,0.696
+MYRTLE TREE HOLDINGS,MYRTLE TREE HOLDINGS LTD T/A AUDLEN HOUSE DAY NURSERY (THATCHAM),133517.82,2,Education (DSG Funded) & Other Education Grants,Grants,534071.28,grant,1,False,none,,0.485
+FIVE RIVERS CHILD CARE,five rivers child care ltd,132695.28999999998,3,Children's Social Care,Private Contractors,530781.1599999999,care_or_education_placement,1,False,none,,0.455
+BROADWAY CARS,BROADWAY CARS,131938.93,46,Education & SEND,Transport Hire,527755.72,general_procurement,1,False,exact,BROADWAY CARS,1.0
+SPRINGBURN CHILDCARE,SPRINGBURN CHILDCARE LTD,131272.82,1,Education (DSG Funded) & Other Education Grants,Grants,525091.28,grant,1,False,none,,0.5
+OPTALIS,OPTALIS LTD,130591.76,23,Adult Social Care,Private Contractors,522367.04,care_or_education_placement,1,False,none,,0.556
+BRACKNELL FOREST BOROUGH CNCL,BRACKNELL FOREST BOROUGH CNCL,130310.57,1,"Finance, Property & Procurement",Private Contractors,521242.28,general_procurement,1,False,none,,0.392
+PLATFORM CARE SERVICES,Platform Care Services Ltd,129431.36,53,Adult Social Care,Private Contractors,517725.44,care_or_education_placement,1,False,none,,0.652
+HARMONIA HOUSE,Harmonia House Ltd.,129072.0,3,Children's Social Care,Private Contractors,516288.0,care_or_education_placement,1,False,none,,0.424
+ST GABRIELS SCHOOL,ST GABRIELS SCHOOL,127948.37,7,Education (DSG Funded) & Other Education Grants,Grants; Other agencies,511793.48,grant,2,True,none,,0.424
+ANCHOR PIPEWORK,ANCHOR PIPEWORK LIMITED,127841.41,36,"Adult Social Care; Capital Financing and Income Investment; Children's Social Care; Community Services; Education & SEND; Environment; Finance, Property & Procurement",Corporate R&M; Payment to contractor,511365.64,general_procurement,1,False,none,,0.552
+SILVER BIRCH CARE HOLDINGS,Silver Birch Care Holdings,127014.56,8,Children's Social Care,Private Contractors,508058.24,care_or_education_placement,1,False,none,,0.478
+JACARANDA SUPPORTED LIVING,Jacaranda Supported Living,126918.38,30,Adult Social Care,Private Contractors,507673.52,care_or_education_placement,1,False,none,,0.471
+FORBURY GARDENS DAY NURSERY,FORBURY GARDENS DAY NURSERY LTD,126637.46,2,Education (DSG Funded) & Other Education Grants,Grants,506549.84,grant,1,False,none,,0.426
+EARLY RISE CARE,Early Rise Care Ltd.,126091.62,1,Children's Social Care,Private Contractors,504366.48,care_or_education_placement,1,False,none,,0.529
+RESICARE ALLIANCE,Resicare Alliance Limited,121571.44,3,Children's Social Care,Private Contractors,486285.76,care_or_education_placement,1,False,none,,0.462
+WOKINGHAM BOROUGH COUNCIL,WOKINGHAM BOROUGH COUNCIL,119521.23999999999,2,"Finance, Property & Procurement",Private Contractors,478084.95999999996,general_procurement,1,False,none,,0.4
+KPMG,KPMG,119155.0,3,"Executive Director - Resources; Finance, Property & Procurement",External audit costs; General Expenses,476620.0,general_procurement,1,False,none,,0.286
+RESPONSE ORGANISATION,RESPONSE ORGANISATION,117254.17,44,Adult Social Care,Private Contractors; Voluntary Associations,469016.68,care_or_education_placement,1,False,none,,0.485
+UNICORN SCHOOL,The Unicorn School,116380.77,10,Education (DSG Funded) & Other Education Grants,Other agencies,465523.08,care_or_education_placement,1,False,none,,0.444
+AMMA CHILDCARE SERVICES,AMMA Childcare Services Ltd.,116000.0,4,Children's Social Care,Private Contractors,464000.0,care_or_education_placement,1,False,none,,0.596
+I V CARE,I.V Care Limited t/a Good Oaks Home Care (Reading),113551.91,72,Adult Social Care,Private Contractors,454207.64,care_or_education_placement,1,False,none,,0.571
+GOLDCREST CARE SERVICES,Goldcrest Care Services,113416.91,76,Adult Social Care,Private Contractors,453667.64,care_or_education_placement,1,False,none,,0.638
+POTENSIAL,Potensial Limited,111914.99,23,Adult Social Care,Private Contractors,447659.96,care_or_education_placement,1,False,none,,0.462
+CAMBIAN SIGN POST,Cambian Sign Post Ltd,111739.04000000001,6,Adult Social Care,Private Contractors,446956.16000000003,care_or_education_placement,1,False,none,,0.452
+BERKS FOODBANK,BERKS FOODBANK,111340.0,3,Development & Housing,Grants,445360.0,grant,1,False,none,,0.414
+TOP CLASS QUALITY SERVICES,Top Class Quality Services Ltd,110806.8,22,Adult Social Care,Private Contractors,443227.2,care_or_education_placement,1,False,none,,0.52
+SCOTTISH AND SOUTHERN,SCOTTISH & SOUTHERN,110760.98000000001,2,Education & SEND; Environment,Payment to contractor,443043.92000000004,general_procurement,1,False,none,,0.522
+EDUCATION SOFTWARE SOLUTIONS,Education Software Solutions Limited,110330.35,2,"Transformation, Customer & ICT",IT,441321.4,general_procurement,1,False,none,,0.84
+PBT SOCIAL CARE,PBT SOCIAL CARE LTD,109511.86,4,Adult Social Care,Private Contractors,438047.44,care_or_education_placement,1,False,none,,0.5
+TOPLINE CARE SOLUTIONS,Topline Care Solutions Ltd,108455.31,60,Adult Social Care,Private Contractors,433821.24,care_or_education_placement,1,False,none,,0.727
+CONTINENTAL LANDSCAPES,Continental Landscapes Ltd,108423.39,8,Environment,Grounds Maintenance,433693.56,general_procurement,1,False,none,,0.524
+ESLAND NORTH,Esland North Ltd,108129.98000000001,4,Children's Social Care,Private Contractors,432519.92000000004,care_or_education_placement,1,False,none,,0.5
+CANARY CARE SERVICES,Canary Care Services Ltd,107576.16,24,Adult Social Care,Private Contractors,430304.64,care_or_education_placement,1,False,none,,0.636
+KB REAL ESTATE MANAGEMENT,KB Real Estate Management Ltd,105375.0,67,Development & Housing,Rents,421500.0,premises_non_procurement,1,False,none,,0.429
+CORNERWAYS HOMES,CORNERWAYS HOMES LTD,105142.2,3,Children's Social Care,Private Contractors,420568.8,care_or_education_placement,1,False,none,,0.541
+ZENCARE CHILDRENS SERVICES,Zencare Childrens Services Ltd.,104928.0,3,Children's Social Care,Private Contractors,419712.0,care_or_education_placement,1,False,none,,0.667
+MAISHA STAFFING SOLUTIONS,MAISHA STAFFING SOLUTIONS LTD,104537.41,44,Children's Social Care,Agency & Temporary Staff; Allowances for provision care; Private Contractors; Public Transport; Transport Hire,418149.64,general_procurement,3,True,none,,0.596
+WCL,WCL UK Ltd (Trading as Everything ICT),102882.78,1,Education & SEND,Subscriptions,411531.12,general_procurement,1,False,exact,WCL,1.0
+HYGGE CHILDRENS SOCIAL CARE,Hygge Children's Social Care Ltd.,102845.23000000001,2,Children's Social Care,Private Contractors,411380.92000000004,care_or_education_placement,1,False,none,,0.558
+COMPASS EXECUTIVE CARS,COMPASS EXECUTIVE CARS (UK) LTD,101156.5,55,Adult Social Care; Children's Social Care; Education & SEND; Education (DSG Funded) & Other Education Grants,Private Contractors; Transport Hire,404626.0,general_procurement,2,True,exact,COMPASS EXECUTIVE CARS,1.0
+BLOOM PROCUREMENT SERVICES,Bloom Procurement Services Ltd,100210.53,1,"Transformation, Customer & ICT",Private Contractors,400842.12,general_procurement,1,False,none,,0.566
+FLORENCE CARE READING,Florence Care Reading Ltd,98945.79000000001,19,Adult Social Care,Private Contractors,395783.16000000003,care_or_education_placement,1,False,none,,0.711
+WITHERSLACK GROUP OF SCHOOLS CHILWORTH HOUSE SCHOOL,Witherslack Group of Schools - Chilworth House School,97431.43,3,Education (DSG Funded) & Other Education Grants,Other agencies,389725.72,care_or_education_placement,1,False,none,,0.362
+ROYAL BOROUGH OF WINDSOR AND MAIDENHEAD,ROYAL BOROUGH OF WINDSOR & MAIDENHEAD,96245.28,1,"Finance, Property & Procurement",Private Contractors,384981.12,general_procurement,1,False,none,,0.465
+KIND2U LIVING,Kind2U Living Ltd,95701.75,12,Adult Social Care,Private Contractors,382807.0,care_or_education_placement,1,False,none,,0.462
+FLOURISHING FAMILIES ASSESSMENT SERVICE,Flourishing Families Assessment Service Ltd.,94667.85,16,Children's Social Care,Private Contractors,378671.4,care_or_education_placement,1,False,none,,0.515
+AMICUS RESIDENTIAL CARE,Amicus Residential Care Ltd.,94200.0,3,Children's Social Care,Private Contractors,376800.0,care_or_education_placement,1,False,none,,0.5
+GLEN CLEANING COMPANY,Glen Cleaning Company Ltd,92393.12,68,"Adult Social Care; Capital Financing and Income Investment; Children's Social Care; Community Services; Development & Housing; Education (DSG Funded) & Other Education Grants; Environment; Finance, Property & Procurement",Cleaning,369572.48,general_procurement,1,False,near_contain,GLEN CLEANING,0.765
+HOPE AND CLAY,Hope & Clay (Construction) Ltd,91306.75,1,Environment,Payment to contractor,365227.0,general_procurement,1,False,none,,0.552
+R AND A HAINES BUILDING CONTRACTORS,R&A Haines Building Contractors,90357.78,9,Development & Housing,Minor Works,361431.12,general_procurement,1,False,none,,0.52
+NEWBURY COMMUNITY RESOURCE CENTRE,THE NEWBURY COMMUNITY RESOURCE CENTRE LTD,89247.65,31,Adult Social Care; Development & Housing; Education & SEND; Environment,Grants; Private Contractors; Voluntary Associations,356990.6,grant,3,True,none,,0.491
+TEONFA,Teonfa Ltd,88726.89,65,Adult Social Care,Private Contractors,354907.56,care_or_education_placement,1,False,none,,0.375
+BEST PINNACLE CARE,Best Pinnacle Care Ltd,85365.04,44,Adult Social Care,Private Contractors,341460.16,care_or_education_placement,1,False,none,,0.483
+ARDENT,ARDENT,85119.55,10,Environment,Consultants; Private Contractors,340478.2,general_procurement,1,False,none,,0.471
+CARETECH COMMUNITY SERVICES L,CARETECH COMMUNITY SERVICES L,84154.62,15,Adult Social Care,Private Contractors,336618.48,care_or_education_placement,1,False,none,,0.554
+ROADSIDE TECHNOLOGIES,Roadside Technologies Ltd,84070.15999999999,10,Environment,Payment to contractor,336280.63999999996,general_procurement,1,False,none,,0.762
+HOUSING CARE 21,HOUSING CARE 21,83251.76,39,Adult Social Care,Private Contractors,333007.04,care_or_education_placement,1,False,none,,0.8
+CRAEGMOOR EASTROP HOUSE PRIORY GROUP,Craegmoor Eastrop House - Priory Group,79460.64,6,Adult Social Care,Private Contractors,317842.56,care_or_education_placement,1,False,none,,0.473
+STEPPING STONES,STEPPING STONES,78600.52,12,Adult Social Care,Private Contractors,314402.08,care_or_education_placement,1,False,none,,0.485
+PRUDENTIAL,PRUDENTIAL,78337.91,7,Finance; Strategy & Governance,Private Contractors; Prudential AVC Teachers,313351.64,general_procurement,1,False,none,,0.522
+SUNLIGHT HOMECARE SERVICES,Sunlight Homecare Services Ltd,78087.82,20,Adult Social Care,Private Contractors,312351.28,care_or_education_placement,1,False,none,,0.56
+STROUD COURT COMMUNITY TRUST,STROUD COURT COMMUNITY TRUST,78020.89,6,Adult Social Care,Voluntary Associations,312083.56,care_or_education_placement,1,False,none,,0.479
+FELTHAM CONSTRUCTION,FELTHAM CONSTRUCTION LTD,77997.11,3,Community Services; Education & SEND,Payment to contractor,311988.44,general_procurement,1,False,exact,FELTHAM CONSTRUCTION,1.0
+PARADIGM CARE SERVICES,Paradigm Care Services Ltd.,77714.28,5,Children's Social Care,Private Contractors,310857.12,care_or_education_placement,1,False,none,,0.609
+SUMMIT CONTRACTORS BUILD,SUMMIT CONTRACTORS BUILD LTD,77557.2,5,Development & Housing,Minor Works,310228.8,general_procurement,1,False,none,,0.615
+UNITY RESIDENTIAL CARE SERVICES,Unity Residential Care Services,77192.45000000001,4,Children's Social Care,Private Contractors,308769.80000000005,care_or_education_placement,1,False,none,,0.552
+ABACUS NURSERY,ABACUS NURSERY (KINGSCLERE NURSERIES),76985.49,2,Education (DSG Funded) & Other Education Grants,Grants,307941.96,grant,1,False,none,,0.424
+HEALTHCARE HOMES LADYMEAD CARE HOME,Healthcare Homes (Spring) Ltd - Ladymead Care Home,76324.14,18,Adult Social Care,Private Contractors,305296.56,care_or_education_placement,1,False,none,,0.393
+TRELOAR TRUST,Treloar Trust,75823.97,6,Adult Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Voluntary Associations,303295.88,care_or_education_placement,1,False,none,,0.552
+HURST LODGE SCHOOL,Hurst Lodge School,75484.45,4,Education (DSG Funded) & Other Education Grants,Other agencies,301937.8,care_or_education_placement,1,False,none,,0.412
+READING WEST APARTHOTEL,READING WEST APARTHOTEL,74308.0,3,Development & Housing,Rents,297232.0,premises_non_procurement,1,False,none,,0.471
+WSP,WSP UK  LTD,73901.03,24,"Development & Housing; Environment; Finance, Property & Procurement",Consultants; Corporate R&M; Payment to contractor; Professional Fees,295604.12,general_procurement,1,False,none,,0.333
+CONNICK TREE CARE,CONNICK TREE CARE,73404.42,38,Environment,Grounds Maintenance,293617.68,general_procurement,1,False,none,,0.545
+YOUR SERENITY,Your Serenity Ltd,73258.73,57,Adult Social Care,Private Contractors,293034.92,care_or_education_placement,1,False,none,,0.476
+ISP CHILDCARE,ISP Childcare Ltd,72641.36,12,Children's Social Care,Private Contractors,290565.44,care_or_education_placement,1,False,none,,0.462
+STEP BY STEP PARTNERSHIP,STEP BY STEP PARTNERSHIP LTD,72365.16,52,Children's Social Care,Private Contractors,289460.64,care_or_education_placement,1,False,none,,0.4
+MMCG,MMCG (2) Limited,71717.33,15,Adult Social Care,Private Contractors,286869.32,care_or_education_placement,1,False,none,,0.286
+PORTHAVEN CARE HOMES NO3 FALKLAND GRANGE,Porthaven Care Homes No3 - Falkland Grange,71308.7,12,Adult Social Care,Private Contractors,285234.8,care_or_education_placement,1,False,none,,0.414
+HAPPY KIDS NEWBURY,Happy Kids Newbury Ltd,69602.41,6,Education (DSG Funded) & Other Education Grants,Grants,278409.64,grant,1,False,none,,0.438
+BAILEYS OF NEWBURY,BAILEYS OF NEWBURY,68206.35,22,Education & SEND,Transport Hire,272825.4,general_procurement,1,False,near_contain,BAILEYS COACHES,0.606
+BERKSHIRE MECHANICAL SERVICES,BERKSHIRE MECHANICAL SERVICES,68040.0,45,Development & Housing,Cleaning; Corporate R&M; Repairs - Furniture,272160.0,general_procurement,1,False,none,,0.604
+TRIPLE VALUE IMPACT,Triple Value Impact,68028.0,5,Chief Executive,General Expenses,272112.0,general_procurement,1,False,none,,0.4
+D J TRAVEL,D J TRAVEL,67966.91,16,Adult Social Care; Education & SEND,Private Contractors; Transport Hire,271867.64,general_procurement,2,True,near_ratio,DJ TRAVEL,0.947
+REMEDICARE EDUCATION SERVICES,Remedicare Education Services Limited,66660.0,5,Education (DSG Funded) & Other Education Grants,Other agencies,266640.0,care_or_education_placement,1,False,none,,0.593
+FRONTISTI SERVICES,Frontisti Services Limited,65050.04,6,Adult Social Care,Private Contractors,260200.16,care_or_education_placement,1,False,none,,0.667
+IESE INNOVATION,iESE Innovation Ltd,64000.0,1,"Finance, Property & Procurement",Professional Fees,256000.0,general_procurement,1,False,none,,0.486
+PANGBOURNE DAY NURSERY,PANGBOURNE DAY NURSERY,63942.61,3,Education (DSG Funded) & Other Education Grants,Grants,255770.44,grant,1,False,none,,0.435
+CAREMARK,Caremark (West Berkshire & Reading),63874.85,34,Adult Social Care,Private Contractors,255499.4,care_or_education_placement,1,False,none,,0.5
+CAMBIAN ASPERGER SYNDROME SERVICES,Cambian Asperger Syndrome Services Ltd,63667.66,2,Education (DSG Funded) & Other Education Grants,Other agencies,254670.64,care_or_education_placement,1,False,none,,0.59
+ABC TRAVEL,ABC TRAVEL (WOKINGHAM) LIMITED T/A ABC TRAVEL,63141.0,24,Adult Social Care; Education & SEND,Transport Hire,252564.0,general_procurement,1,False,exact,ABC TRAVEL,1.0
+A AND E BUILDERS,A&E BUILDERS (BASINGSTOKE) LIMITED,62693.64,6,Development & Housing,Minor Works,250774.56,general_procurement,1,False,none,,0.471
+WEMYSS LODGE,Wemyss Lodge Ltd,62445.63,10,Adult Social Care,Private Contractors,249782.52,care_or_education_placement,1,False,none,,0.385
+PLAYMATES PRE SCHOOL,PLAYMATES PRE-SCHOOL,61849.11,3,Education (DSG Funded) & Other Education Grants,Grants,247396.44,grant,1,False,none,,0.455
+ALMAAZ 59,ALMAAZ 59 LTD ( T/A SCHOOL TRAVEL),61536.1,28,Adult Social Care; Education & SEND,Transport Hire,246144.4,general_procurement,1,False,exact,ALMAAZ 59,1.0
+G E BUILDING SERVICES,G E Building Services,59938.0,3,"Finance, Property & Procurement",Payment to contractor,239752.0,general_procurement,1,False,none,,0.622
+YUME PROJECT,The Yume Project Ltd,59876.94,66,Adult Social Care,Private Contractors; Voluntary Associations,239507.76,care_or_education_placement,1,False,none,,0.4
+BEENHAM CATERPILLARS,Beenham Caterpillars,59582.38,2,Education (DSG Funded) & Other Education Grants,Grants,238329.52,grant,1,False,none,,0.45
+CROSSROADS CARE WEST BERKSHIRE,CROSSROADS CARE WEST BERKSHIRE (NEWBURY BRANCH),58776.6,4,Adult Social Care,Voluntary Associations,235106.4,care_or_education_placement,1,False,none,,0.607
+PAYPOINT MOBILE AND ONLINE,PAYPOINT MOBILE & ONLINE,58398.66,5,Environment,Private Contractors,233594.64,general_procurement,1,False,none,,0.409
+NORTH STAR CHILDRENS HOMES,North Star Children's Homes Ltd.,58257.61,1,Children's Social Care,Private Contractors,233030.44,care_or_education_placement,1,False,none,,0.478
+LADYBIRDS PRE SCHOOL,LADYBIRDS PRE-SCHOOL,58103.04,2,Education (DSG Funded) & Other Education Grants,Grants,232412.16,grant,1,False,none,,0.468
+ENABLE INCLUSIVE SUPPORT,Enable Inclusive Support Ltd,56473.67,4,Adult Social Care,Private Contractors,225894.68,care_or_education_placement,1,False,none,,0.5
+LITTLE RAINBOWS RAINBOWS CHILDCARE,LITTLE RAINBOWS LTD/RAINBOWS CHILDCARE LTD,56199.9,1,Education (DSG Funded) & Other Education Grants,Grants,224799.6,grant,1,False,none,,0.475
+BLOOMFIELD CARE,Bloomfield Care Ltd,56132.45,28,Adult Social Care,Private Contractors,224529.8,care_or_education_placement,1,False,none,,0.64
+ROFEMARON HEALTHCARE,Rofemaron Healthcare Ltd,56078.44,20,Adult Social Care,Private Contractors,224313.76,care_or_education_placement,1,False,none,,0.5
+VOCALA,VOCALA LTD,55823.3,2,Adult Social Care - Transformation Projects,Licences; Purchase - Equipment,223293.2,general_procurement,1,False,none,,0.5
+SOUTHERN COACH LINES,SOUTHERN COACH LINES LTD,55531.89,16,Education & SEND,Transport Hire,222127.56,general_procurement,1,False,exact,SOUTHERN COACH LINES,1.0
+LYORA HEALTHCARE SERVICES,Lyora Healthcare Services,55060.27,5,Adult Social Care,Private Contractors,220241.08,care_or_education_placement,1,False,none,,0.612
+PRIORITY SERVICES4U,Priority Services4u Ltd,55013.16,8,Adult Social Care,Private Contractors,220052.64,care_or_education_placement,1,False,none,,0.636
+DANIEL GRIFFITHS,DANIEL GRIFFITHS T/A BLUEBIRD PASSENGER SERVICES,54810.0,20,Education & SEND,Transport Hire,219240.0,general_procurement,1,False,exact,DANIEL GRIFFITHS,1.0
+BERKSHIRE WOMENS AID,Berkshire Womens Aid,52997.5,2,Public Health & Wellbeing,Voluntary Associations,211990.0,general_procurement,1,False,none,,0.455
+BROCKHURST AND MARLSTON HOUSE SCHOOLS,BROCKHURST & MARLSTON HOUSE SCHOOLS,52684.32,1,Education (DSG Funded) & Other Education Grants,Grants,210737.28,grant,1,False,none,,0.421
+PRECIOUS HOMES,Precious Homes Ltd,52614.770000000004,3,Adult Social Care,Private Contractors,210459.08000000002,care_or_education_placement,1,False,none,,0.429
+WESTMINSTER HOMECARE,Westminster Homecare,52312.8,10,Adult Social Care,Private Contractors,209251.2,care_or_education_placement,1,False,none,,0.562
+YOUNG PEOPLE AND CHILDREN FIRST,YOUNG PEOPLE & CHILDREN FIRST,51510.86,16,Adult Social Care; Children's Social Care,Private Contractors; Voluntary Associations,206043.44,care_or_education_placement,1,False,none,,0.431
+IDOX SOFTWARE,IDOX SOFTWARE LTD,51226.409999999996,2,Community Services; Development & Housing,IT,204905.63999999998,general_procurement,1,False,exact,IDOX SOFTWARE,1.0
+SWAN ADVOCACY,Swan Advocacy,51216.0,8,Adult Social Care,Professional Fees; Voluntary Associations,204864.0,care_or_education_placement,2,True,near_contain,SWAN ADVOCACY NETWORK,0.765
+ACORN HOME SUPPORT,Acorn Home Support Ltd,51197.560000000005,53,Adult Social Care,Private Contractors,204790.24000000002,care_or_education_placement,1,False,none,,0.471
+MILKWOOD CARE APPLEWOOD CARE HOME,Milkwood Care Ltd - Applewood Care Home,50332.47,11,Adult Social Care,Private Contractors,201329.88,care_or_education_placement,1,False,none,,0.4
+HOME FRONT,Home Front Ltd,50196.78,3,Community Services,Payment to contractor,200787.12,general_procurement,1,False,none,,0.667
+HEATHCOTES M,Heathcotes M Ltd,49955.64,3,Adult Social Care,Private Contractors,199822.56,care_or_education_placement,1,False,none,,0.538
+ROYAL MAIL GROUP,ROYAL MAIL GROUP PLC,49939.73,17,"Transformation, Customer & ICT",Postage,199758.92,general_procurement,1,False,none,,0.486
+OLD FIRE STATION NURSERY,The Old Fire Station Nursery,49606.92,1,Education (DSG Funded) & Other Education Grants,Grants,198427.68,grant,1,False,none,,0.478
+ORPHEUS CENTRE,The Orpheus Centre,48642.79,13,Adult Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Private Contractors,194571.16,care_or_education_placement,1,False,none,,0.48
+MOOR HOUSE SCHOOL,MOOR HOUSE SCHOOL,48595.34,2,Education (DSG Funded) & Other Education Grants,Other agencies,194381.36,care_or_education_placement,1,False,none,,0.444
+FOUR CORNERS CARE,Four Corners Care Ltd.,48548.57,8,Children's Social Care,Private Contractors,194194.28,care_or_education_placement,1,False,none,,0.486
+HARRIET HOUSE MONTESSORI,HARRIET HOUSE MONTESSORI,48193.17,1,Education (DSG Funded) & Other Education Grants,Grants,192772.68,grant,1,False,none,,0.5
+CIVICA,CIVICA  UK LTD,48011.36,3,Community Services; Development & Housing,IT,192045.44,general_procurement,1,False,exact,CIVICA,1.0
+NEXUS FOSTERING,Nexus Fostering Ltd,47755.840000000004,12,Children's Social Care,Private Contractors,191023.36000000002,care_or_education_placement,1,False,none,,0.588
+AURORA FE,Aurora FE Ltd T/A Aurora Foxes,47363.17,4,Adult Social Care; Education (DSG Funded) & Other Education Grants,Other agencies; Private Contractors,189452.68,care_or_education_placement,1,False,none,,0.48
+CHILTERN WAY ACADEMY,CHILTERN WAY ACADEMY,46562.36,22,Education (DSG Funded) & Other Education Grants,Other agencies,186249.44,care_or_education_placement,1,False,none,,0.5
+APEX PRIME CARE,Apex Prime Care Ltd,46559.229999999996,34,Adult Social Care,Private Contractors,186236.91999999998,care_or_education_placement,1,False,none,,0.593
+CREAM HOLDINGS,Cream Holdings (Taunton) Ltd,46398.049999999996,6,Adult Social Care,Private Contractors,185592.19999999998,care_or_education_placement,1,False,none,,0.552
+MULBERRY CARE,Mulberry Care,46294.48,9,Adult Social Care,Private Contractors,185177.92,care_or_education_placement,1,False,none,,0.583
+INSIGHT DIRECT,INSIGHT DIRECT (UK) LTD,46075.33,6,"Strategy & Governance; Transformation, Customer & ICT",IT,184301.32,general_procurement,1,False,exact,INSIGHT DIRECT,1.0
+BEAM UP,Beam Up Ltd,45954.0,3,Adult Social Care; Children's Social Care; Education & SEND,IT,183816.0,general_procurement,1,False,none,,0.412
+CHILMINGTON HOMES,Chilmington Homes Ltd,45914.6,6,Adult Social Care,Private Contractors,183658.4,care_or_education_placement,1,False,none,,0.457
+ASTON NURSING SERVICES,Aston Nursing Services LTD,45499.81,33,Children's Social Care,Private Contractors; Voluntary Associations,181999.24,care_or_education_placement,1,False,none,,0.696
+PURLEY PRE SCHOOL PLAYGROUP,PURLEY PRE-SCHOOL PLAYGROUP,45318.14,1,Education (DSG Funded) & Other Education Grants,Grants,181272.56,grant,1,False,none,,0.5
+SOLUTIONS4HEALTH,Solutions4Health Ltd,45277.619999999995,4,Public Health & Wellbeing,Private Contractors,181110.47999999998,general_procurement,1,False,none,,0.474
+BOLINDA,Bolinda UK Ltd,45000.0,5,Community Services,Payment to contractor; Subscriptions,180000.0,general_procurement,1,False,none,,0.588
+NAVARA LODGE,Navara Lodge,44638.1,11,Adult Social Care,Private Contractors,178552.4,care_or_education_placement,1,False,none,,0.444
+TK TRAVEL,TK TRAVEL LTD,44200.8,6,Education & SEND,Transport Hire,176803.2,general_procurement,1,False,exact,TK TRAVEL,1.0
+FOR FAMILIES,For Families Ltd,43135.7,2,Children's Social Care,Private Contractors,172542.8,care_or_education_placement,1,False,none,,0.5
+BOOT FARM KINDERGARDEN,BOOT FARM KINDERGARDEN,42573.079999999994,2,Education (DSG Funded) & Other Education Grants,Grants,170292.31999999998,grant,1,False,none,,0.5
+AMS CARE WILTSHIRE,AMS Care Wiltshire Ltd,42251.04,9,Adult Social Care,Private Contractors,169004.16,care_or_education_placement,1,False,none,,0.545
+NORTHCOURT LODGE RESIDENTIAL CARE HOME,Northcourt Lodge Residential Care Home Ltd,42221.509999999995,8,Adult Social Care,Private Contractors,168886.03999999998,care_or_education_placement,1,False,none,,0.447
+SWARCO SMART CHARGING,SWARCO SMART CHARGING LTD,42032.880000000005,3,Environment,Payment to contractor,168131.52000000002,general_procurement,1,False,exact,SWARCO SMART CHARGING,1.0
+ORMSBY LODGE,ORMSBY LODGE,41871.22,6,Adult Social Care,Private Contractors,167484.88,care_or_education_placement,1,False,none,,0.424
+LVS OXFORD,LVS Oxford,41680.66,2,Education (DSG Funded) & Other Education Grants,Other agencies,166722.64,care_or_education_placement,1,False,none,,0.417
+OXFORD ARCHITECTS,OXFORD ARCHITECTS LLP,41655.0,9,Education & SEND; Environment,Consultants; Payment to contractor,166620.0,general_procurement,1,False,none,,0.485
+MRS M ALSBURY,MRS M ALSBURY,41251.81,4,Education (DSG Funded) & Other Education Grants,Grants,165007.24,grant,1,False,none,,0.4
+KENNET VALLEY CATERPILLARS,KENNET VALLEY CATERPILLARS,41057.04,3,Education (DSG Funded) & Other Education Grants,Grants,164228.16,grant,1,False,none,,0.595
+BUCKINGHAMSHIRE COLLEGE GROUP IS A TRADING NAME OF AYLESBURY COLLEGE,Buckinghamshire College Group is a trading name of Aylesbury College,40031.79,6,Education (DSG Funded) & Other Education Grants,Other agencies,160127.16,care_or_education_placement,1,False,none,,0.33
+MOORLANDS REST HOME,Moorlands Rest Home,39837.18,9,Adult Social Care,Private Contractors,159348.72,care_or_education_placement,1,False,none,,0.45
+CONNECT 2 FLEXICARE,Connect 2 Flexicare Ltd,39835.2,3,Children's Social Care,Private Contractors,159340.8,care_or_education_placement,1,False,none,,0.462
+CLEEVE LODGE,CLEEVE LODGE,39636.14,7,Adult Social Care,Private Contractors,158544.56,care_or_education_placement,1,False,none,,0.424
+PRO AIR GB,PRO-AIR GB LTD,39490.0,1,Environment,Payment to contractor,157960.0,general_procurement,1,False,none,,0.571
+SPORTS AND LEISURE MANAGEMENT,SPORTS & LEISURE MANAGEMENT LTD,39139.47,1,Community Services,Private Contractors,156557.88,general_procurement,1,False,none,,0.478
+RICHMOND FELLOWSHIP,RICHMOND FELLOWSHIP,38835.6,18,Adult Social Care,Private Contractors; Voluntary Associations,155342.4,care_or_education_placement,1,False,none,,0.391
+RAINBOW NURSERY,THE RAINBOW NURSERY,38804.6,1,Education (DSG Funded) & Other Education Grants,Grants,155218.4,grant,1,False,none,,0.429
+DEVCOMMS SOUTH EAST,DevComms South East Ltd,38785.3,2,Development & Housing,Professional Fees,155141.2,general_procurement,1,False,none,,0.488
+TADLEY COURT SCHOOL PRIORY,Tadley Court School Priory,37802.07,4,Education (DSG Funded) & Other Education Grants,Other agencies,151208.28,care_or_education_placement,1,False,none,,0.45
+COATE WATER CARE,Coate Water Care (Arbory) Limited,37771.11,12,Adult Social Care,Private Contractors,151084.44,care_or_education_placement,1,False,none,,0.552
+MALLARD COTTAGE CHILDCARE,MALLARD COTTAGE CHILDCARE,37507.39,3,Education (DSG Funded) & Other Education Grants,Grants,150029.56,grant,1,False,none,,0.478
+PANGBOURNE VALLEY PLAYGROUP,PANGBOURNE VALLEY PLAYGROUP,37074.1,1,Education (DSG Funded) & Other Education Grants,Grants,148296.4,grant,1,False,none,,0.474
+LIFE CARE CORPORATION,LIFE CARE CORPORATION LTD,36571.43,1,Adult Social Care,Private Contractors,146285.72,care_or_education_placement,1,False,none,,0.537
+TRIPLE P,TRIPLE P UK LIMITED,36205.0,2,Children's Social Care,Project,144820.0,general_procurement,1,False,none,,0.429
+BLISS RESIDENTIAL CARE,BLISS RESIDENTIAL CARE LTD,35784.44,3,Adult Social Care,Private Contractors,143137.76,care_or_education_placement,1,False,none,,0.526
+ILLUMINANCE FOSTERING SERVICE,ILLUMINANCE FOSTERING SERVICE,35750.259999999995,6,Children's Social Care,Private Contractors,143001.03999999998,care_or_education_placement,1,False,none,,0.567
+WELLY BOOT LODGE DAY NURSERY,WELLY BOOT LODGE DAY NURSERY LTD,35726.13,1,Education (DSG Funded) & Other Education Grants,Grants,142904.52,grant,1,False,none,,0.407
+MARK DILLON,Mark Dillon t/a Penmar Transport Ltd,35282.0,15,Adult Social Care; Education & SEND,Private Contractors; Transport Hire,141128.0,general_procurement,2,True,none,,0.462
+HOLMLEIGH CARE,Holmleigh Care Ltd,35184.600000000006,3,Adult Social Care,Private Contractors,140738.40000000002,care_or_education_placement,1,False,none,,0.583
+FAMILYPLACEMENT COM,FAMILYPLACEMENT.COM LTD,34892.200000000004,11,Children's Social Care,Private Contractors,139568.80000000002,care_or_education_placement,1,False,none,,0.412
+ACHIEVING FOR CHILDREN,Achieving for Children,34390.31,1,"Finance, Property & Procurement",Private Contractors,137561.24,general_procurement,1,False,none,,0.417
+NADAM CARE,Nadam Care Ltd T/A Belamie Gables Care Home,34345.82,8,Adult Social Care,Private Contractors,137383.28,care_or_education_placement,1,False,none,,0.615
+VELOX HEALTHCARE,VELOX HEALTHCARE LIMITED,34308.0,4,Children's Social Care,Private Contractors,137232.0,care_or_education_placement,1,False,none,,0.483
+SOVEREIGN HOUSING GROUP,SOVEREIGN HOUSING GROUP,33283.63,44,Development & Housing,Grants; Rents,133134.52,premises_non_procurement,2,True,none,,0.52
+COCKLEBURY FARMHOUSE HOMES,Cocklebury Farmhouse Homes,32861.68,3,Adult Social Care,Private Contractors,131446.72,care_or_education_placement,1,False,none,,0.429
+MINSTEAD TRUST,MINSTEAD TRUST,32817.11,8,Adult Social Care,Private Contractors,131268.44,care_or_education_placement,1,False,none,,0.467
+GARDNER MEMORIAL MORE HOUSE SCHOOL,The Gard’ner Memorial Ltd/More House School,32533.0,3,Education (DSG Funded) & Other Education Grants,Other agencies,130132.0,care_or_education_placement,1,False,none,,0.393
+GREEN METRO CARS READING,GREEN METRO CARS READING LTD,32321.47,19,Children's Social Care; Education & SEND; Education (DSG Funded) & Other Education Grants,Transport Hire,129285.88,general_procurement,1,False,exact,GREEN METRO CARS READING,1.0
+AURORA ROWAN SCHOOL,Aurora Rowan School,31666.67,1,Education (DSG Funded) & Other Education Grants,Other agencies,126666.68,care_or_education_placement,1,False,none,,0.45
+ADVOCACY PEOPLE,The Advocacy People (formerly SEAP),31653.23,3,Adult Social Care,Professional Fees; Voluntary Associations,126612.92,care_or_education_placement,2,True,exact,ADVOCACY PEOPLE,1.0
+INDEPENDENCE WITH DIGNITY SUPPORT SERVICES,INDEPENDENCE WITH DIGNITY SUPPORT SERVICES LTD,31518.34,32,Adult Social Care,Private Contractors,126073.36,care_or_education_placement,1,False,none,,0.537
+OLAYINKA BUKOLA,Olayinka Bukola T/A Divine Care Solutions,31360.37,3,Adult Social Care,Private Contractors,125441.48,care_or_education_placement,1,False,none,,0.438
+SAM2SAM DEAF CARE SERVICE,Sam2Sam Deaf Care Service Ltd,31299.22,6,Adult Social Care,Private Contractors,125196.88,care_or_education_placement,1,False,none,,0.49
+CASTLE WATER,CASTLE WATER LIMITED,31291.86,8,Adult Social Care; Development & Housing,Water Rates,125167.44,premises_non_procurement,1,False,none,,0.485
+WESTWOOD FARM COMM PRE SCHOOL,WESTWOOD FARM COMM PRE-SCHOOL,31010.19,1,Education (DSG Funded) & Other Education Grants,Grants,124040.76,grant,1,False,none,,0.431
+MORTIMER PRE SCHOOL,MORTIMER PRE SCHOOL,30459.72,3,Education (DSG Funded) & Other Education Grants,Grants,121838.88,grant,1,False,none,,0.512
+THATCHAM PRE SCHOOL,THATCHAM PRE-SCHOOL,30209.66,3,Education (DSG Funded) & Other Education Grants,Grants,120838.64,grant,1,False,none,,0.471
+HERMITAGE PRE SCHOOL PLAYGROU,HERMITAGE PRE SCHOOL PLAYGROU,30136.28,3,Education (DSG Funded) & Other Education Grants,Grants,120545.12,grant,1,False,none,,0.419
+COMPTON PRE SCHOOL,COMPTON PRE SCHOOL,30104.61,3,Education (DSG Funded) & Other Education Grants,Grants,120418.44,grant,1,False,none,,0.483
+THOMSON REUTERS SWEET AND MAXWELL,THOMSON REUTERS/SWEET AND MAXWELL LTD,29894.31,2,Community Services; Strategy & Governance,Purchases Books & Publications; Subscriptions,119577.24,general_procurement,1,False,none,,0.4
+ETERNAL HOMECARE READING,Eternal Homecare Reading,29808.9,22,Adult Social Care,Private Contractors,119235.6,care_or_education_placement,1,False,none,,0.667
+GADBOURNE SERVICES,GADBOURNE SERVICES (NEWBURY) LTD,29691.64,4,Development & Housing,Minor Works,118766.56,general_procurement,1,False,none,,0.667
+BEENHAM PRE SCHOOL,BEENHAM PRE SCHOOL,29568.15,1,Education (DSG Funded) & Other Education Grants,Grants,118272.6,grant,1,False,none,,0.452
+COLD ASH PRE SCHOOL,COLD ASH PRE SCHOOL,29486.39,1,Education (DSG Funded) & Other Education Grants,Grants,117945.56,grant,1,False,none,,0.458
+STAGECOACH SERVICES,STAGECOACH SERVICES LIMITED,28839.65,6,Environment,Public Transport,115358.6,general_procurement,1,False,none,,0.615
+ALANIS COACH TRAVEL,Alanis Coach Travel,28818.29,16,Education & SEND,Transport Hire,115273.16,general_procurement,1,False,exact,ALANIS COACH TRAVEL,1.0
+HELPING HANDS HEALING HOOVES,Helping Hands Healing Hooves Ltd,28774.07,8,Adult Social Care,Private Contractors,115096.28,care_or_education_placement,1,False,none,,0.458
+ROYAL NATIONAL COLLEGE FOR BLIND,The Royal National College for the Blind,28753.67,1,Education (DSG Funded) & Other Education Grants,Other agencies,115014.68,care_or_education_placement,1,False,none,,0.453
+A MONGER,A MONGER LTD,28751.97,5,Development & Housing,Minor Works,115007.88,general_procurement,1,False,none,,0.414
+MILKWOOD CARE BRAEBURN LODGE,Milkwood Care Ltd - Braeburn Lodge,28681.7,6,Adult Social Care,Private Contractors,114726.8,care_or_education_placement,1,False,none,,0.408
+KINGSCLERE NURSERIES,Kingsclere Nurseries,28655.35,1,Education (DSG Funded) & Other Education Grants,Grants,114621.4,grant,1,False,none,,0.591
+ACE WHEELCHAIR TRAVEL,ACE WHEELCHAIR TRAVEL,28458.0,9,Education & SEND,Transport Hire,113832.0,general_procurement,1,False,exact,ACE WHEELCHAIR TRAVEL,1.0
+FOREST BRIDGE SCHOOL,Forest Bridge School,28313.42,2,Education (DSG Funded) & Other Education Grants,Other agencies,113253.68,care_or_education_placement,1,False,none,,0.409
+WAYS INTO WORK,Ways into work CIC,28250.0,1,Education & SEND,Other agencies,113000.0,care_or_education_placement,1,False,exact,WAYS INTO WORK,1.0
+COLLEYCARE,COLLEYCARE LTD,28206.550000000003,6,Adult Social Care,Private Contractors,112826.20000000001,care_or_education_placement,1,False,none,,0.667
+CHAILEY HERITAGE FOUNDATION,Chailey Heritage Foundation,28202.01,1,Education (DSG Funded) & Other Education Grants,Other agencies,112808.04,care_or_education_placement,1,False,none,,0.464
+COATE WATER CARE CO,Coate Water Care Co Ltd,28201.75,6,Adult Social Care,Private Contractors,112807.0,care_or_education_placement,1,False,none,,0.5
+PARADISE HOUSE,PARADISE HOUSE,28166.97,3,Adult Social Care,Private Contractors,112667.88,care_or_education_placement,1,False,none,,0.485
+ABICARE,Abicare,27809.28,7,Adult Social Care,Private Contractors,111237.12,care_or_education_placement,1,False,none,,0.588
+TRADING STANDARDS SOUTH EAST,Trading Standards South East Limited,27509.57,3,Community Services,Subscriptions,110038.28,general_procurement,1,False,none,,0.407
+BLUE SKY FOSTERING,Blue Sky Fostering,27430.48,5,Children's Social Care,Private Contractors,109721.92,care_or_education_placement,1,False,none,,0.452
+TY COCH VILLA,Ty Coch Villa Ltd,27322.15,6,Adult Social Care,Private Contractors,109288.6,care_or_education_placement,1,False,none,,0.5
+CONVERGENT TECHNOLOGY,Convergent Technology Limited,27160.54,3,"Adult Social Care; Transformation, Customer & ICT",IT; IT Equipment,108642.16,general_procurement,1,False,none,,0.571
+ENCOMPASS,Encompass (Dorset) Ltd t/a Rawleigh House,26810.09,6,Adult Social Care,Voluntary Associations,107240.36,care_or_education_placement,1,False,none,,0.526
+SERVNET,Servnet Ltd,26799.72,1,"Transformation, Customer & ICT",IT,107198.88,general_procurement,1,False,none,,0.5
+COMMERCIAL SERVICES KENT,COMMERCIAL SERVICES KENT LTD,26549.25,3,Strategy & Governance,Employee Expenses; Professional Fees,106197.0,general_procurement,1,False,none,,0.542
+PARKCARE HOMES,Parkcare Homes (No 2) Limited t/a White House,26231.5,7,Adult Social Care,Private Contractors,104926.0,care_or_education_placement,1,False,none,,0.48
+UNIVERSITY OF SOUTHAMPTON,UNIVERSITY OF SOUTHAMPTON,26204.0,1,Education & SEND,Professional Fees,104816.0,general_procurement,1,False,none,,0.5
+SIRONA INTERNATIONAL,Sirona International Ltd t/a Poseidon Care,26183.06,14,Adult Social Care,Private Contractors,104732.24,care_or_education_placement,1,False,none,,0.529
+D J TAYLOR,D J TAYLOR,26127.54,4,Development & Housing,Minor Works,104510.16,general_procurement,1,False,none,,0.632
+PIED PIPER PRE SCHOOL,PIED PIPER PRE-SCHOOL,26108.44,4,Education (DSG Funded) & Other Education Grants,Grants,104433.76,grant,1,False,none,,0.444
+AM HOMECARE SERVICES,AM Homecare Services Ltd,25840.54,3,Adult Social Care,Private Contractors,103362.16,care_or_education_placement,1,False,none,,0.591
+BETHANY HAYES,Bethany Hayes,25785.54,3,Education (DSG Funded) & Other Education Grants,Grants,103142.16,grant,1,False,none,,0.5
+BEANSHEAF COMMUNITY PRE SCHOO,BEANSHEAF COMMUNITY PRE-SCHOO,25705.36,2,Education (DSG Funded) & Other Education Grants,Grants,102821.44,grant,1,False,none,,0.556
+RACKLINE,Rackline Limited,25510.0,2,"Community Services; Finance, Property & Procurement",Payment to contractor; Purchase - Equipment,102040.0,general_procurement,1,False,none,,0.5
+WINGS AND WELLIES PRE SCHOOL,WINGS & WELLIES PRE-SCHOOL (ST GEORGE'S PRE-SCHOOL),25492.93,1,Education (DSG Funded) & Other Education Grants,Grants,101971.72,grant,1,False,none,,0.453
+SLOUGH CHILDREN FIRST,SLOUGH CHILDREN FIRST LIMITED,25469.56,1,"Finance, Property & Procurement",Private Contractors,101878.24,general_procurement,1,False,none,,0.457
+PERCEPTIVE ON LINE,Perceptive On Line Ltd T/A Amatis Networks,25401.969999999998,15,"Transformation, Customer & ICT",IT,101607.87999999999,general_procurement,1,False,none,,0.474
+CREDO CARE,CREDO CARE,25363.87,4,Children's Social Care,Private Contractors,101455.48,care_or_education_placement,1,False,none,,0.6
+VALORUM CARE GROUP,Valorum Care Group Ltd,25181.62,9,Adult Social Care,Private Contractors,100726.48,care_or_education_placement,1,False,none,,0.483
+CHARMAINE CAULFIELD,CHARMAINE CAULFIELD,24850.39,1,Education (DSG Funded) & Other Education Grants,Grants,99401.56,grant,1,False,none,,0.452
+OPTIMAL LIVING,Optimal Living Ltd,24837.14,3,Adult Social Care,Private Contractors,99348.56,care_or_education_placement,1,False,none,,0.412
+NATIONAL YOUTH ADVOCACY SERVICE,National Youth Advocacy Service,24781.260000000002,3,Children's Social Care,Voluntary Associations,99125.04000000001,care_or_education_placement,1,False,none,,0.5
+AGE BERKSHIRE,AGE UK BERKSHIRE,24724.07,4,Adult Social Care; Public Health & Wellbeing,Voluntary Associations,98896.28,care_or_education_placement,2,True,none,,0.686
+STRIPEWEB,Stripeweb,24666.91,29,"Finance, Property & Procurement",Charges,98667.64,general_procurement,1,False,none,,0.462
+ADDINGTON SCHOOL,Addington School,24407.559999999998,2,Education (DSG Funded) & Other Education Grants,Other agencies,97630.23999999999,care_or_education_placement,1,False,none,,0.467
+JPAS CONTRACTING,JPAS Contracting Ltd,24235.0,2,Community Services,Payment to contractor,96940.0,general_procurement,1,False,none,,0.706
+BOOKINGLAB,BookingLab Limited,24000.0,1,"Transformation, Customer & ICT",IT,96000.0,general_procurement,1,False,exact,BOOKINGLAB,1.0
+INCLUSION HAMPSHIRE INCLUSION COLLEGE,Inclusion Hampshire/Inclusion College,23500.02,3,Education (DSG Funded) & Other Education Grants,Other agencies,94000.08,care_or_education_placement,1,False,none,,0.393
+KARD GROUP,KARD GROUP LIMITED,23400.0,6,Development & Housing,Rents,93600.0,premises_non_procurement,1,False,none,,0.516
+KAY HEALTHCARE,Kay Healthcare Ltd,23339.03,6,Adult Social Care,Private Contractors,93356.12,care_or_education_placement,1,False,none,,0.48
+FUSION FOSTERING,FUSION FOSTERING LTD,23102.760000000002,4,Children's Social Care,Private Contractors,92411.04000000001,care_or_education_placement,1,False,none,,0.486
+PREMIER CARS,Premier Cars,23097.5,18,Education & SEND,Transport Hire,92390.0,general_procurement,1,False,exact,PREMIER CARS,1.0
+ST JOHNS PRE SCHOOL,ST JOHN'S PRE-SCHOOL,23093.97,2,Education (DSG Funded) & Other Education Grants,Grants,92375.88,grant,1,False,none,,0.452
+WEST BERKSHIRE TRAINING CONSORTIUM,WEST BERKSHIRE TRAINING CONSORTIUM,22963.98,1,Education & SEND,Grants,91855.92,grant,1,False,none,,0.448
+ALLSTAR BUSINESS SOLUTIONS,ALLSTAR BUSINESS SOLUTIONS LTD,22890.57,11,Environment,Direct Transport Costs,91562.28,general_procurement,1,False,none,,0.64
+MINI OAKS PRESCHOOL,MINI OAKS PRESCHOOL,22882.17,1,Education (DSG Funded) & Other Education Grants,Grants,91528.68,grant,1,False,none,,0.5
+GP HOMECARE TA RADIS COMM CARE,GP HOMECARE LTD/TA RADIS COMM CARE,22684.56,5,Adult Social Care,Private Contractors,90738.24,care_or_education_placement,1,False,none,,0.478
+CHERRYTREES CARE,Cherrytrees Care,22619.170000000002,4,Adult Social Care,Private Contractors,90476.68000000001,care_or_education_placement,1,False,none,,0.444
+NATIONAL STAR COLLEGE,National Star College,22278.61,1,Education (DSG Funded) & Other Education Grants,Other agencies,89114.44,care_or_education_placement,1,False,none,,0.471
+CHIRON CARE,Chiron Care (UK) Ltd,22117.95,6,Adult Social Care,Private Contractors,88471.8,care_or_education_placement,1,False,none,,0.571
+TENNENT HOMES 2019,Tennent Homes 2019 Limited,21900.0,18,Development & Housing,Rents,87600.0,premises_non_procurement,1,False,none,,0.429
+NATIONAL FOSTERING AGENCY,The National Fostering Agency Ltd,21786.38,6,Children's Social Care,Private Contractors,87145.52,care_or_education_placement,1,False,none,,0.4
+H F TRUST,H F TRUST LIMITED,21303.67,4,Adult Social Care,Voluntary Associations,85214.68,care_or_education_placement,1,False,none,,0.526
+GOLDEN AURA CARE,Golden Aura Care Limited,20704.0,8,Children's Social Care; Education & SEND,Transport Hire,82816.0,general_procurement,1,False,exact,GOLDEN AURA CARE,1.0
+RBPG,RBPG Limited (Robinson Brown Property Group Limited),20583.37,12,Adult Social Care; Development & Housing,Grants; Private Contractors,82333.48,care_or_education_placement,2,True,none,,0.286
+U KIDS CHILDCARE,U KIDS CHILDCARE LIMITED,20492.629999999997,3,Education & SEND,Grants,81970.51999999999,grant,1,False,none,,0.414
+PASSIONATE SUPPORT SERVICES,Passionate Support Services Ltd,20488.52,3,Adult Social Care,Private Contractors,81954.08,care_or_education_placement,1,False,none,,0.615
+JANES HOUSE MONTESSORI LALATIGS,JANES HOUSE MONTESSORI / LALATIGS LTD,20449.75,2,Education (DSG Funded) & Other Education Grants,Grants,81799.0,grant,1,False,none,,0.41
+SHARE FOUNDATION THIRD PARTY FUNDRAISING TURST STATUS ACCOUNT,THE SHARE FOUNDATION THIRD PARTY FUNDRAISING TURST STATUS ACCOUNT,20417.29,1,Children's Social Care,Allowances for provision care,81669.16,general_procurement,1,False,none,,0.365
+SHINFIELD BUILDERS,SHINFIELD BUILDERS,20347.4,2,Development & Housing,Minor Works,81389.6,general_procurement,1,False,none,,0.412
+1ST TRANSPORT INNOVATION READING,1st Transport Innovation Reading Ltd T/A 5 Star Cars & Reading Central Cars,20341.5,11,Education & SEND,Transport Hire,81366.0,general_procurement,1,False,none,,0.471
+HEATH FARM FOSTERING,Heath Farm Fostering,20295.2,3,Children's Social Care,Private Contractors,81180.8,care_or_education_placement,1,False,none,,0.6
+C L WINDEBANK,C L WINDEBANK (COMBE HOUSE),20198.62,3,Adult Social Care,Private Contractors,80794.48,care_or_education_placement,1,False,none,,0.381
+CAREMATCH,CareMatch Ltd,20156.16,9,Adult Social Care,Direct Payment,80624.64,general_procurement,1,False,none,,0.48
+FETLOCKS HOUSING,Fetlocks Housing Ltd,20142.34,4,Adult Social Care,Private Contractors,80569.36,care_or_education_placement,1,False,none,,0.571
+STREATLEY HILL PRE SCHOOL,STREATLEY HILL PRE-SCHOOL,20141.73,1,Education (DSG Funded) & Other Education Grants,Grants,80566.92,grant,1,False,none,,0.444
+LIAISE LONDON,Liaise London Ltd,20113.52,2,Adult Social Care,Private Contractors,80454.08,care_or_education_placement,1,False,none,,0.48
+INTERAKT COMMUNITY,Interakt Community Limited,20050.47,26,Adult Social Care,Private Contractors,80201.88,care_or_education_placement,1,False,none,,0.393
+ROBSEAL ROOFING SOLUTIONS,Robseal Roofing Solutions Ltd,20000.0,1,"Finance, Property & Procurement",Payment to contractor,80000.0,general_procurement,1,False,none,,0.553
+VERNA EARTH SOLUTIONS,Verna Earth Solutions Ltd.,20000.0,1,Development & Housing,Professional Fees,80000.0,general_procurement,1,False,none,,0.681
+HEROS,HEROS,19863.34,1,Education (DSG Funded) & Other Education Grants,Other agencies,79453.36,care_or_education_placement,1,False,none,,0.444
+ST MARYS RESIDENTIAL HOME,ST MARY'S RESIDENTIAL HOME,19784.57,3,Adult Social Care,Voluntary Associations,79138.28,care_or_education_placement,1,False,none,,0.476
+BACYP,BACYP LTD T/A Berkshire Youth,19779.0,4,Children's Social Care; Community Services; Education & SEND,Grants; Professional Fees; Rents,79116.0,grant,3,True,none,,0.4
+FEES AND CHARGES CO,FEES AND CHARGES CO LTD,19750.0,1,Strategy & Governance,Professional Fees,79000.0,general_procurement,1,False,none,,0.564
+MARSTON HOLDINGS,Marston Holdings Ltd,19746.0,2,Environment,Corporate R&M; Payment to contractor,78984.0,general_procurement,1,False,none,,0.571
+RENAULT RETAIL GROUP,Renault Retail Group UK Ltd.,19737.95,1,Environment,Payment to contractor,78951.8,general_procurement,1,False,none,,0.516
+ONE SOURCE IT,One Source IT Ltd,19695.0,2,"Transformation, Customer & ICT",IT; IT Equipment,78780.0,general_procurement,1,False,none,,0.483
+ENGLEFIELD ESTATE TRUST CORPORATION,The Englefield Estate Trust Corporation Ltd,19667.64,1,Environment,Payment to contractor,78670.56,general_procurement,1,False,none,,0.473
+PBS4,PBS4,19629.35,3,Adult Social Care,Private Contractors,78517.4,care_or_education_placement,1,False,none,,0.267
+BOTTOMLINE TECHNOLOGIES,Bottomline Technologies,19565.04,2,"Environment; Transformation, Customer & ICT",IT,78260.16,general_procurement,1,False,none,,0.636
+LIFTABILITY,LIFTABILITY LTD,19532.03,3,Development & Housing,Minor Works,78128.12,general_procurement,1,False,none,,0.526
+CORNERSTONE BACS,CORNERSTONE BACS (MISS EMMALINE LAMBERT),19500.0,2,Development & Housing; Strategy & Governance,Legal Fees; Professional Fees,78000.0,general_procurement,1,False,none,,0.467
+CARE PARTNERS,CARE PARTNERS (NEWBURY) LTD,19312.93,21,Adult Social Care,Private Contractors,77251.72,care_or_education_placement,1,False,none,,0.48
+JENEVI EDUCARE,Jenevi Educare Limited,19294.56,1,Children's Social Care,Private Contractors,77178.24,care_or_education_placement,1,False,none,,0.533
+KINTBURY PRESCHOOL PLAYGROUP,KINTBURY PRESCHOOL PLAYGROUP,19214.75,2,Education (DSG Funded) & Other Education Grants,Grants,76859.0,grant,1,False,none,,0.449
+SUNBEAM FOSTERING AGENCY,Sunbeam Fostering Agency Ltd,19211.28,5,Children's Social Care,Private Contractors,76845.12,care_or_education_placement,1,False,none,,0.473
+VALLEY CARS,Valley Cars,19141.0,9,Education & SEND,Transport Hire,76564.0,general_procurement,1,False,exact,VALLEY CARS,1.0
+LIBERTY SUPPORTED LIVING,Liberty Supported Living,19109.0,3,Children's Social Care,Private Contractors,76436.0,care_or_education_placement,1,False,none,,0.449
+CHIEVELEY PRE SCHOOL PLAYGROU,CHIEVELEY PRE-SCHOOL PLAYGROU,19052.87,3,Education (DSG Funded) & Other Education Grants,Grants,76211.48,grant,1,False,none,,0.419
+HAMILTON SPRINGS HEALTH CARE,Hamilton Springs Health Care Limited,18952.41,3,Adult Social Care,Private Contractors,75809.64,care_or_education_placement,1,False,none,,0.456
+KARE SUPPORT SERVICES,Kare Support Services Ltd,18814.079999999998,3,Adult Social Care,Private Contractors,75256.31999999999,care_or_education_placement,1,False,none,,0.739
+RED BALLOON READING,Red Balloon  -  Reading,18763.0,2,Education (DSG Funded) & Other Education Grants,Other agencies,75052.0,care_or_education_placement,1,False,none,,0.558
+UBITRICITY DISTRIBUTED ENERGY SYSTEMS,Ubitricity Distributed Energy Systems UK Ltd,18675.0,1,Environment,Payment to contractor,74700.0,general_procurement,1,False,exact,UBITRICITY DISTRIBUTED ENERGY SYSTEMS,1.0
+BARCHESTER HEALTHCARE MOUNT TRYON CARE HOME,Barchester Healthcare Ltd - Mount Tryon Care Home,18665.120000000003,3,Adult Social Care,Private Contractors,74660.48000000001,care_or_education_placement,1,False,none,,0.369
+MAYFAIR HOMECARE,Mayfair Homecare,18656.06,17,Adult Social Care,Private Contractors,74624.24,care_or_education_placement,1,False,none,,0.5
+SCBS,SCBS LTD,18319.27,3,Development & Housing,Minor Works,73277.08,general_procurement,1,False,none,,0.364
+ROSE ROAD ASSOCIATION,Rose Road Association,18316.64,1,Education & SEND,Subscriptions,73266.56,general_procurement,1,False,none,,0.5
+ACORNS NURSERY SCHOOL,ACORNS NURSERY SCHOOL,18238.7,1,Education (DSG Funded) & Other Education Grants,Grants,72954.8,grant,1,False,none,,0.476
+APPLE ORCHARD,APPLE ORCHARD,18197.94,11,Adult Social Care,Private Contractors,72791.76,care_or_education_placement,1,False,none,,0.583
+PAVILLION PUBLISHING AND MEDIA,Pavillion Publishing and Media Ltd,18169.2,2,Adult Social Care; Executive Director People - Children's Services,Subscriptions; Training,72676.8,general_procurement,1,False,none,,0.417
+SOLO SUPPORT SERVICES,Solo Support Services,18028.2,3,Adult Social Care,Direct Payment,72112.8,general_procurement,1,False,none,,0.609
+FIS PAYMENTS TRAVELODGE,FIS PAYMENTS - TRAVELODGE,17981.629999999997,2,Development & Housing,Rents,71926.51999999999,premises_non_procurement,1,False,none,,0.591
+PRIORS COURT FOUNDATION,Prior's Court Foundation,17974.0,1,Education (DSG Funded) & Other Education Grants,Grants,71896.0,grant,1,False,none,,0.49
+PITCHBOOKING,PITCHBOOKING  LTD,17945.64,2,Environment,IT,71782.56,general_procurement,1,False,none,,0.636
+PRIVILEGE SUPPORTED CARE,Privilege Supported Care Ltd.,17809.61,3,Children's Social Care,Private Contractors,71238.44,care_or_education_placement,1,False,none,,0.5
+CARAVANTASTIC,Caravantastic Ltd,17588.1,1,Development & Housing,Purchase of Equipment,70352.4,general_procurement,1,False,none,,0.424
+KEYSTREAM GROUP,KEYSTREAM GROUP LTD,17545.0,2,Strategy & Governance,Professional Fees,70180.0,general_procurement,1,False,none,,0.611
+ELIALI MPC,EliAli MPC Ltd,17428.92,6,Children's Social Care,Private Contractors,69715.68,care_or_education_placement,1,False,none,,0.429
+ADELAIDE HEALTHCARE,Adelaide Healthcare Ltd,17374.0,3,Adult Social Care,Private Contractors,69496.0,care_or_education_placement,1,False,none,,0.457
+VOLUNTEER CENTRE WEST BERKSHIRE,VOLUNTEER CENTRE WEST BERKSHIRE,17171.61,2,Environment; Public Health & Wellbeing,Voluntary Associations,68686.44,general_procurement,1,False,none,,0.596
+S RICHARDS,S RICHARDS T/AS K RICKETTS & S RICHARDS TAXIS,17144.0,8,Education & SEND,Transport Hire,68576.0,general_procurement,1,False,none,,0.588
+PHS GROUP,PHS GROUP PLC,17047.71,3,Adult Social Care; Development & Housing,Private Contractors; Waste,68190.84,general_procurement,2,True,none,,0.4
+REDDY CARE,Reddy Care Ltd,16941.59,4,Adult Social Care,Private Contractors,67766.36,care_or_education_placement,1,False,none,,0.609
+WELFORD HEALTHCARE MC,Welford Healthcare MC Limited,16753.5,3,Adult Social Care,Private Contractors,67014.0,care_or_education_placement,1,False,none,,0.41
+COUNTRY COURT CARE HOMES 2,Country Court Care Homes 2 Limited,16607.699999999997,3,Adult Social Care,Private Contractors,66430.79999999999,care_or_education_placement,1,False,none,,0.476
+BEEHIVE ENTERPRISE,The Beehive Enterprise Limited t/a The Beehive Project,16539.46,2,Adult Social Care,Private Contractors,66157.84,care_or_education_placement,1,False,none,,0.444
+SHAW HEALTHCARE HOMEFIELD HOUSE NURSING HOME,Shaw Healthcare (Group) Limited - Homefield House Nursing Home,16393.71,4,Adult Social Care,Private Contractors,65574.84,care_or_education_placement,1,False,none,,0.413
+G7 BUSINESS SOLUTIONS,G7 BUSINESS SOLUTIONS LIMITED,16364.56,8,"Finance, Property & Procurement",Consultants; IT,65458.24,general_procurement,1,False,none,,0.605
+LG FUTURES,LG Futures,16335.0,2,"Finance, Property & Procurement",Professional Fees,65340.0,general_procurement,1,False,none,,0.435
+ELECTORAL REFORM SERVICES,Electoral Reform Services Ltd,16323.69,6,Strategy & Governance,General Expenses; IT; Postage; Print & Stationery,65294.76,general_procurement,1,False,none,,0.571
+PORTHAVEN CARE HOMES,Porthaven Care Homes (Savernake View Care Home),16294.39,3,Adult Social Care,Private Contractors,65177.56,care_or_education_placement,1,False,none,,0.556
+MRI COMMUNITY SOFTWARE,MRI Community Software Limited,16273.489999999998,2,Children's Social Care,Project,65093.95999999999,general_procurement,1,False,none,,0.629
+AMR CONSULT,AMR CONSULT LTD,16149.82,8,Education & SEND,Consultants,64599.28,general_procurement,1,False,none,,0.583
+CROWN HOME CARE,Crown Home Care,16135.42,3,Adult Social Care,Private Contractors,64541.68,care_or_education_placement,1,False,none,,0.56
+ACER HEALTHCARE OPERATIONS,Acer Healthcare Operations Limited,16133.0,3,Adult Social Care,Private Contractors,64532.0,care_or_education_placement,1,False,none,,0.542
+MARNEL LODGE,MARNEL LODGE,16133.0,3,Adult Social Care,Private Contractors,64532.0,care_or_education_placement,1,False,none,,0.5
+LEASEPLAN,LEASEPLAN UK LTD,16087.15,3,Adult Social Care; Community Services; Education & SEND,Lease car costs re employees,64348.6,premises_non_procurement,1,False,none,,0.4
+LYCETTE CARE,Lycette Care T/A The Warren,16083.359999999999,3,Adult Social Care,Private Contractors,64333.439999999995,care_or_education_placement,1,False,none,,0.522
+INKSPOTS,INKSPOTS,15918.03,1,Education (DSG Funded) & Other Education Grants,Grants,63672.12,grant,1,False,none,,0.444
+QUADIENT,Quadient UK Ltd,15908.54,4,"Transformation, Customer & ICT",Postage,63634.16,general_procurement,1,False,none,,0.444
+WESSEX LIFT COMPANY,Wessex Lift Company Ltd,15892.0,1,Development & Housing,Minor Works,63568.0,general_procurement,1,False,none,,0.458
+FOSTERING FOR YOU,FOSTERING FOR YOU LTD,15771.68,4,Children's Social Care,Private Contractors,63086.72,care_or_education_placement,1,False,none,,0.444
+JACQUELINE DAINTON,Jacqueline Dainton,15596.56,2,Education (DSG Funded) & Other Education Grants,Grants,62386.24,grant,1,False,none,,0.5
+MINERVAS VIRTUAL ACADEMY,Minerva’s Virtual Academy Ltd,15579.44,3,Education (DSG Funded) & Other Education Grants,Other agencies,62317.76,care_or_education_placement,1,False,none,,0.439
+BETHANY CARE TRUST,Bethany Care Trust,15512.5,3,Adult Social Care,Voluntary Associations,62050.0,care_or_education_placement,1,False,none,,0.529
+OCEAN COMMUNITY SERVICES LUDLOW STREET HEALTHCARE,Ocean Community Services - Ludlow Street Healthcare,15458.66,3,Adult Social Care,Private Contractors,61834.64,care_or_education_placement,1,False,none,,0.458
+MRS M F RICHARDSON,MRS M F RICHARDSON T/A MFR Contracts,15365.0,13,Education & SEND,Transport Hire,61460.0,general_procurement,1,False,none,,0.605
+ADAMS AND SUTHERLAND,Adams & Sutherland,15350.0,1,Development & Housing,Consultants,61400.0,general_procurement,1,False,none,,0.486
+MATRIX BOOKING,Matrix Booking Limited,15300.0,1,"Transformation, Customer & ICT",Licences,61200.0,general_procurement,1,False,none,,0.583
+ZAHRA UMAR,ZAHRA UMAR,15242.04,1,Education (DSG Funded) & Other Education Grants,Grants,60968.16,grant,1,False,none,,0.471
+PICKLES PLAYHOUSE,Pickles Playhouse,15211.03,3,Education (DSG Funded) & Other Education Grants,Grants,60844.12,grant,1,False,none,,0.5
+AMANDA COVENTRY,AMANDA COVENTRY,15151.460000000001,3,Education (DSG Funded) & Other Education Grants,Grants,60605.840000000004,grant,1,False,none,,0.562
+YOUNG PEOPLE AT HEART,Young People at Heart Ltd,15126.43,3,Children's Social Care,Private Contractors,60505.72,care_or_education_placement,1,False,none,,0.457
+ROYAL MASONIC BENEVOLENT INSTITUTION,ROYAL MASONIC BENEVOLENT INSTITUTION,15040.920000000002,3,Adult Social Care,Private Contractors,60163.68000000001,care_or_education_placement,1,False,none,,0.419
+ZURICH,Zurich,15000.0,3,"Finance, Property & Procurement",Insurance Premiums,60000.0,general_procurement,1,False,none,,0.727
+FLOORS MADE EASY,Floors Made Easy Limited,15000.0,1,Development & Housing,Minor Works,60000.0,general_procurement,1,False,none,,0.438
+EDUCAFE,Educafe CIC,15000.0,1,Education & SEND,Grants,60000.0,grant,1,False,none,,0.435
+HAYMARKET MEDIA GROUP,Haymarket Media Group,14995.0,1,Development & Housing,Subscriptions,59980.0,general_procurement,1,False,none,,0.476
+READING TRANSPORT,READING TRANSPORT LTD,14965.55,8,Education & SEND; Environment,Public Transport,59862.2,general_procurement,1,False,none,,0.667
+BRENDONCARE FOUNDATION,BRENDONCARE FOUNDATION (FROXFIELD),14952.669999999998,3,Adult Social Care,Voluntary Associations,59810.67999999999,care_or_education_placement,1,False,none,,0.545
+MISS R E BROWN,MISS R E BROWN,14897.52,3,Education (DSG Funded) & Other Education Grants,Grants,59590.08,grant,1,False,none,,0.452
+DINGLEY PROMISE,DINGLEY PROMISE,14884.29,2,Education (DSG Funded) & Other Education Grants,Grants,59537.16,grant,1,False,none,,0.467
+MT PROPERTY CONSULTANTS,MT Property Consultants Ltd,14820.0,2,Community Services; Environment,Consultants; Payment to contractor,59280.0,general_procurement,1,False,none,,0.556
+WINDSOR FOREST COLLEGES GROUP,THE WINDSOR FOREST COLLEGES GROUP,14717.92,5,Education (DSG Funded) & Other Education Grants,Other agencies,58871.68,care_or_education_placement,1,False,none,,0.4
+ORDERS OF ST JOHN CARE TRUST MEADOWS,The Orders of St John Care Trust - The Meadows,14664.9,3,Adult Social Care,Private Contractors,58659.6,care_or_education_placement,1,False,none,,0.393
+D OSTEEN,D.Osteen Ltd t/a D.Osteen Homecare Support,14642.75,14,Adult Social Care,Private Contractors,58571.0,care_or_education_placement,1,False,none,,0.476
+GREATER LONDON FOSTERING,Greater London Fostering,14560.0,3,Children's Social Care,Private Contractors,58240.0,care_or_education_placement,1,False,none,,0.5
+ST ANDREWS SCHOOL PANGBOURNE,ST ANDREWS SCHOOL (PANGBOURNE,14530.07,1,Education (DSG Funded) & Other Education Grants,Grants,58120.28,grant,1,False,none,,0.476
+BRIDGE HOMES SUPPORT,Bridge Homes Support,14510.0,4,Children's Social Care,Private Contractors,58040.0,care_or_education_placement,1,False,none,,0.424
+SHILPI CHANDNA,SHILPI CHANDNA,14464.89,1,Education (DSG Funded) & Other Education Grants,Grants,57859.56,grant,1,False,none,,0.444
+BONDCARE,Bondcare (Henley) Ltd,14414.19,3,Adult Social Care,Private Contractors,57656.76,care_or_education_placement,1,False,none,,0.571
+MRS RUTH DELL,MRS RUTH DELL,14283.18,3,Education (DSG Funded) & Other Education Grants,Grants,57132.72,grant,1,False,none,,0.4
+PINNACLE CARE,PINNACLE CARE Ltd,14271.5,3,Adult Social Care,Private Contractors,57086.0,care_or_education_placement,1,False,none,,0.583
+ZOE ABBOTT,ZOE ABBOTT,14192.880000000001,3,Education (DSG Funded) & Other Education Grants,Grants,56771.520000000004,grant,1,False,none,,0.417
+VALUING CARE FINANCIAL MANAGEMENT,VALUING CARE FINANCIAL MANAGEMENT LTD,14166.66,1,"Finance, Property & Procurement",Professional Fees,56666.64,general_procurement,1,False,none,,0.375
+CITY OF LONDON,CITY OF LONDON (COUNCILS),14165.0,2,Community Services,Professional Fees,56660.0,general_procurement,1,False,none,,0.462
+SOUTH AFRICA LODGE,South Africa Lodge,14146.919999999998,3,Adult Social Care,Private Contractors,56587.67999999999,care_or_education_placement,1,False,none,,0.579
+SCANDOR LANDSCAPE CONTRACTORS,SCANDOR LANDSCAPE CONTRACTORS LTD,14082.88,1,Education & SEND,Payment to contractor,56331.52,general_procurement,1,False,none,,0.682
+JENNIFER THEARLE,JENNIFER THEARLE,14012.82,3,Education (DSG Funded) & Other Education Grants,Grants,56051.28,grant,1,False,none,,0.5
+CAMPHILL VILLAGE TRUST,The Camphill Village Trust Ltd,14007.22,5,Adult Social Care,Private Contractors,56028.88,care_or_education_placement,1,False,none,,0.391
+GO GREEN TAXIS,Go Green Taxis Ltd,13974.25,14,Children's Social Care; Education & SEND; Education (DSG Funded) & Other Education Grants,Public Transport; Transport Hire,55897.0,general_procurement,1,False,none,,0.615
+GET ACTIVE SPORTS,GET ACTIVE SPORTS (RSR SPORTS LTD),13943.86,1,Education & SEND,Grants,55775.44,grant,1,False,none,,0.485
+PEOPLE CENTRED SUPPORT,People Centred Support Limited,13923.34,4,Adult Social Care,Private Contractors,55693.36,care_or_education_placement,1,False,none,,0.526
+SPARE CRIB GLOBAL,Spare Crib Global Limited,13915.0,12,Adult Social Care,Rents,55660.0,premises_non_procurement,1,False,none,,0.467
+ANDREW COX,Andrew Cox,13900.0,8,Education & SEND,Transport Hire,55600.0,general_procurement,1,False,none,,0.778
+WINDSOR CLINICAL AND HOME CARE SERVICES GROUP,Windsor Clinical and Home Care Services Group Ltd,13787.45,3,Adult Social Care,Private Contractors,55149.8,care_or_education_placement,1,False,none,,0.464
+ASHFORDS,ASHFORDS LLP,13700.0,3,Strategy & Governance,Legal Fees,54800.0,general_procurement,1,False,none,,0.455
+CELADOR APARTMENTS,CELADOR APARTMENTS,13699.0,5,Development & Housing,Rents,54796.0,premises_non_procurement,1,False,none,,0.455
+ANN ATKINS,ANN ATKINS,13676.849999999999,3,Education (DSG Funded) & Other Education Grants,Grants,54707.399999999994,grant,1,False,none,,0.571
+FLOURISH FOSTERING,Flourish Fostering Limited,13639.0,3,Children's Social Care,Private Contractors,54556.0,care_or_education_placement,1,False,none,,0.429
+MRS C A WISE,MRS C A WISE,13415.34,3,Children's Social Care; Education (DSG Funded) & Other Education Grants,Allowances for provision care; Grants,53661.36,grant,2,True,none,,0.48
+ANCHOR VANS,Anchor Vans Ltd.,13293.0,1,Community Services,Private Contractors,53172.0,general_procurement,1,False,none,,0.455
+EXCALIBUR ACADEMIES TRUST JOHN OGAUNT SCHOOL,EXCALIBUR ACADEMIES TRUST - JOHN O'GAUNT SCHOOL,13265.85,2,Community Services; Education (DSG Funded) & Other Education Grants,Grants; Rents,53063.4,premises_non_procurement,2,True,none,,0.4
+JJ AND S,JJ&S (CHIPPENHAM) LTD,13199.56,3,Adult Social Care,Private Contractors,52798.24,care_or_education_placement,1,False,none,,0.526
+HOLISTIC HOUSING AND CARE,Holistic Housing & Care Ltd,13131.86,5,Adult Social Care,Private Contractors,52527.44,care_or_education_placement,1,False,none,,0.488
+GLOBAL MEDIATION,Global Mediation,13125.0,21,Education (DSG Funded) & Other Education Grants,Other agencies,52500.0,care_or_education_placement,1,False,none,,0.533
+CHLOE GOULDING,Chloe Goulding,13100.67,1,Education (DSG Funded) & Other Education Grants,Grants,52402.68,grant,1,False,none,,0.5
+QUEEN MARYS COLLEGE,QUEEN MARY'S COLLEGE,13034.01,2,Education (DSG Funded) & Other Education Grants,Other agencies,52136.04,care_or_education_placement,1,False,none,,0.512
+AUTO SKILLS C I C,Auto Skills (Reading) C.I.C.,13015.0,4,Education (DSG Funded) & Other Education Grants,Other agencies,52060.0,care_or_education_placement,1,False,none,,0.444
+BOOKTRUST,BOOKTRUST,12981.2,1,Education (DSG Funded) & Other Education Grants,Purchases Books & Publications,51924.8,general_procurement,1,False,none,,0.421
+ENJOY TRAINING,Enjoy Training Ltd t/as Rebel Business School,12950.0,2,Education & SEND,Grants,51800.0,grant,1,False,none,,0.593
+HOWDEN BROKERS,Howden UK Brokers Limited,12866.92,2,"Finance, Property & Procurement",Insurance Premiums,51467.68,general_procurement,1,False,none,,0.533
+COLLABORATIVE CARE SERVICES,Collaborative Care Services Ltd,12716.349999999999,3,Adult Social Care,Private Contractors,50865.399999999994,care_or_education_placement,1,False,none,,0.627
+JENNI JACKSON,JENNI JACKSON,12705.66,3,Education (DSG Funded) & Other Education Grants,Grants,50822.64,grant,1,False,none,,0.452
+LOVE LANE PRE SCHOOL,LOVE LANE PRE SCHOOL,12691.380000000001,2,Education (DSG Funded) & Other Education Grants,Grants,50765.520000000004,grant,1,False,none,,0.429
+FIDELITY HEALTHCARE MOORMEAD,Fidelity Healthcare Moormead Limited,12534.099999999999,3,Adult Social Care,Private Contractors,50136.399999999994,care_or_education_placement,1,False,none,,0.508
+LOUISE SPRULES,LOUISE SPRULES,12513.150000000001,3,Education (DSG Funded) & Other Education Grants,Grants,50052.600000000006,grant,1,False,none,,0.488
+PHOENIX COMMUNITY CARE,PHOENIX COMMUNITY CARE LTD,12505.56,3,Children's Social Care,Private Contractors,50022.24,care_or_education_placement,1,False,none,,0.526
+ORCHARDS,The Orchards,12502.8,3,Adult Social Care,Private Contractors,50011.2,care_or_education_placement,1,False,none,,0.556
+N MEHMOOD,N Mehmood T/A A Star Executive Cars Ltd,12489.0,7,Education & SEND,Transport Hire,49956.0,general_procurement,1,False,none,,0.5
+ST PETERS BRADFIELD PRE SCHOO,ST PETERS BRADFIELD PRE-SCHOO,12471.08,1,Education (DSG Funded) & Other Education Grants,Grants,49884.32,grant,1,False,none,,0.453
+MRS DENISE KAY,MRS DENISE KAY,12455.94,3,Education (DSG Funded) & Other Education Grants,Grants,49823.76,grant,1,False,none,,0.516
+AUDLEY CARE WHITE HORSE,AUDLEY CARE WHITE HORSE LTD,12326.26,10,Adult Social Care,Private Contractors,49305.04,care_or_education_placement,1,False,none,,0.529
+RH ENVIRONMENTAL,RH Environmental Limited,12322.0,2,Community Services,Subscriptions; Training,49288.0,general_procurement,1,False,none,,0.848
+BRIGHTWALTON PRE SCHOOL NURSE,BRIGHTWALTON PRE SCHOOL NURSE,12282.13,1,Education (DSG Funded) & Other Education Grants,Grants,49128.52,grant,1,False,none,,0.431
+SEISMIC SEWAGE SYSTEMS,SEISMIC SEWAGE SYSTEMS LTD,12260.0,4,Environment,Private Contractors,49040.0,general_procurement,1,False,none,,0.556
+COMPASS FOSTERING SOUTH,Compass Fostering South Limited,12257.16,3,Children's Social Care,Private Contractors,49028.64,care_or_education_placement,1,False,none,,0.489
+GREAT SHEFFORD UNDER FIVES,GREAT SHEFFORD UNDER FIVES,12203.48,1,Education (DSG Funded) & Other Education Grants,Grants,48813.92,grant,1,False,none,,0.415
+EXACOM SYSTEMS,Exacom Systems Ltd,12105.85,1,Development & Housing,IT,48423.4,general_procurement,1,False,exact,EXACOM SYSTEMS,1.0
+CACI,CACI Limited,12071.67,1,Children's Social Care,IT,48286.68,general_procurement,1,False,none,,0.4
+360 SECURITY AND SUPPORT SERVICES,360 Security & Support Services Ltd,11995.04,12,Development & Housing,Corporate R&M; Professional Fees,47980.16,general_procurement,1,False,none,,0.638
+CARE HOME NEWBURY,Care @ Home Newbury Ltd,11949.95,9,Adult Social Care,Private Contractors,47799.8,care_or_education_placement,1,False,none,,0.483
+DNA HOME IMPROVEMENTS,DNA HOME IMPROVEMENTS LTD,11920.0,5,Children's Social Care; Environment,Corporate R&M,47680.0,general_procurement,1,False,none,,0.471
+PEOPLE MATTER SUPPORT SERVICES,PEOPLE MATTER SUPPORT SERVICES LTD,11904.9,2,Adult Social Care,Private Contractors,47619.6,care_or_education_placement,1,False,none,,0.727
+1ST CHOICE STAIRLIFTS,1ST CHOICE STAIRLIFTS,11827.0,4,Development & Housing,Minor Works,47308.0,general_procurement,1,False,none,,0.516
+PSS,PSS UK,11790.33,8,Adult Social Care,Private Contractors,47161.32,care_or_education_placement,1,False,none,,0.353
+INDIGENOUS BREWERY,Indigenous Brewery Limited,11740.14,3,Development & Housing,Payment to contractor,46960.56,general_procurement,1,False,none,,0.476
+WESTGATE HEALTHCARE ST PAULS CARE CENTRE,Westgate Healthcare (Hemel Hempstead) Limited - St Pauls Care Centre,11739.119999999999,2,Adult Social Care,Private Contractors,46956.479999999996,care_or_education_placement,1,False,none,,0.393
+KENNET AND AVON GROUP,Kennet & Avon Group,11735.0,7,Education & SEND,Transport Hire,46940.0,general_procurement,1,False,near_contain,KENNET AND AVON CARS,0.829
+VIKKI WILLIAMS,VIKKI WILLIAMS,11700.6,3,Education (DSG Funded) & Other Education Grants,Grants,46802.4,grant,1,False,none,,0.4
+RIDGEWAY RISE CARE HOME,Ridgeway Rise Care Home,11669.96,3,Adult Social Care,Private Contractors,46679.84,care_or_education_placement,1,False,none,,0.5
+TOTHAM LODGE HOME FOR ELDERLY,TOTHAM LODGE HOME FOR THE ELDERLY,11585.19,3,Adult Social Care,Private Contractors,46340.76,care_or_education_placement,1,False,none,,0.417
+PEARLCARE HEATHERSIDE REST HOME,Pearlcare - Heatherside Rest Home,11585.19,3,Adult Social Care,Private Contractors,46340.76,care_or_education_placement,1,False,none,,0.456
+SOUTHERN COMMUNICATIONS CORPORATE SOLUTIONS,Southern Communications Corporate Solutions Ltd,11492.23,3,"Transformation, Customer & ICT",IT Equipment,45968.92,general_procurement,1,False,exact,SOUTHERN COMMUNICATIONS CORPORATE SOLUTIONS,1.0
+DIXON SEARLE PARTNERSHIP,Dixon Searle Partnership,11280.0,5,Development & Housing,Professional Fees,45120.0,general_procurement,1,False,none,,0.44
+HELEN REDDING EDUCATION CONSULTANCY,Helen Redding Education Consultancy Ltd,11237.5,2,Education & SEND,Professional Fees,44950.0,general_procurement,1,False,none,,0.439
+MILLY GAYNOR,MILLY GAYNOR,11235.51,3,Education (DSG Funded) & Other Education Grants,Grants,44942.04,grant,1,False,none,,0.522
+JOANNE WERNHAM,JOANNE WERNHAM,11220.11,1,Education (DSG Funded) & Other Education Grants,Grants,44880.44,grant,1,False,none,,0.429
+ST PHILIPS CARE CALEDONIA,St Philips Care Caledonia Ltd,11181.47,3,Adult Social Care,Private Contractors,44725.88,care_or_education_placement,1,False,none,,0.5
+PRESTIGE NETWORK,PRESTIGE NETWORK,11179.73,11,Children's Social Care,Professional Fees,44718.92,general_procurement,1,False,none,,0.519
+WESTLANDS CARE HOME,Westlands Care Home Ltd,11176.08,3,Adult Social Care,Private Contractors,44704.32,care_or_education_placement,1,False,none,,0.474
+CARNATION DAY CARE SERVICES,CARNATION DAY CARE SERVICES,11173.86,18,Adult Social Care,Private Contractors,44695.44,care_or_education_placement,1,False,none,,0.588
+ICHOOSR,iChoosr Ltd,11124.5,1,Environment,Professional Fees,44498.0,general_procurement,1,False,none,,0.5
+TAS CARE,TAS Care Limited T/A Rose Cottage Nursing Home,11044.9,3,Adult Social Care,Private Contractors,44179.6,care_or_education_placement,1,False,none,,0.667
+DAYS FLEET,DAYS FLEET,11007.49,1,Environment,Private Contractors,44029.96,general_procurement,1,False,none,,0.48
+SOFTCAT,Softcat Ltd,11005.0,2,"Education & SEND; Transformation, Customer & ICT",IT,44020.0,general_procurement,1,False,exact,SOFTCAT,1.0
+BLAKE MORGAN,BLAKE MORGAN LLP,10911.76,2,"Finance, Property & Procurement",Legal Fees,43647.04,general_procurement,1,False,none,,0.48
+SAMANTHA CARTER,SAMANTHA CARTER,10878.220000000001,3,Education (DSG Funded) & Other Education Grants,Grants,43512.880000000005,grant,1,False,none,,0.688
+HENWICK PROPERTIES,HENWICK PROPERTIES,10842.71,7,Development & Housing,Grants; Rents,43370.84,premises_non_procurement,2,True,none,,0.414
+A AND E FIRE AND SECURITY,A&E FIRE & SECURITY LIMITED,10714.72,9,"Adult Social Care; Children's Social Care; Community Services; Development & Housing; Finance, Property & Procurement",Corporate R&M; Private Contractors; Telephones,42858.88,general_procurement,1,False,none,,0.444
+CATHERINE NASH,CATHERINE NASH,10574.19,1,Education (DSG Funded) & Other Education Grants,Grants,42296.76,grant,1,False,none,,0.471
+BRITISH TELECOM,BRITISH TELECOM,10479.12,3,"Transformation, Customer & ICT",Telephones,41916.48,general_procurement,1,False,none,,0.429
+JONES ROBINSON LETTINGS,Jones Robinson Lettings Ltd,10334.61,4,Development & Housing,Rents,41338.44,premises_non_procurement,1,False,none,,0.444
+NJM HUMPHRIES,NJM HUMPHRIES T/A COACH MILES,10295.0,4,Education & SEND,Transport Hire,41180.0,general_procurement,1,False,exact,NJM HUMPHRIES,1.0
+ELITE MINI COACHES,Elite Mini Coaches Ltd,10199.0,4,Education & SEND,Transport Hire,40796.0,general_procurement,1,False,exact,ELITE MINI COACHES,1.0
+ELITE SECURITY GROUP,ELITE SECURITY GROUP,10178.25,9,"Adult Social Care; Finance, Property & Procurement",Corporate R&M,40713.0,general_procurement,1,False,none,,0.468
+COMFORT CARE,Comfort Care (uk) ltd,10127.41,4,Adult Social Care,Private Contractors,40509.64,care_or_education_placement,1,False,none,,0.727
+HELEN MELVIN,HELEN MELVIN,10113.84,1,Education (DSG Funded) & Other Education Grants,Grants,40455.36,grant,1,False,none,,0.56
+DATTO EUROPE,Datto Europe Limited,10000.0,1,"Transformation, Customer & ICT",IT,40000.0,general_procurement,1,False,none,,0.519
+MR RIAZ SHEIKH,MR RIAZ SHEIKH,9997.5,4,Education & SEND,Transport Hire,39990.0,general_procurement,1,False,none,,0.462
+NADEEM MIRZA,Nadeem Mirza Trading as Parker Travels,9927.5,7,Adult Social Care; Children's Social Care; Education & SEND,Transport Hire,39710.0,general_procurement,1,False,none,,0.435
+HANNING HOMES CARE,Hanning Homes Care Ltd,9892.78,3,Adult Social Care,Private Contractors,39571.12,care_or_education_placement,1,False,none,,0.513
+QUALITY CARE,Quality Care (Wales) Ltd,9881.23,3,Adult Social Care,Private Contractors,39524.92,care_or_education_placement,1,False,none,,0.609
+QUALITAS CARE,Qualitas Care Ltd t/a Whitelow House Nursing Home,9876.279999999999,3,Adult Social Care,Private Contractors,39505.119999999995,care_or_education_placement,1,False,none,,0.562
+GABRIELS ANGELS,Gabriel’s Angels Ltd,9850.32,3,Adult Social Care,Private Contractors,39401.28,care_or_education_placement,1,False,none,,0.533
+LOCAL GOVERNMENT PROPERTY CONSULTANTS,LOCAL GOVERNMENT PROPERTY CONSULTANTS (LGPC),9850.0,2,"Finance, Property & Procurement",Professional Fees,39400.0,general_procurement,1,False,none,,0.444
+CRESCENT SIGNS,CRESCENT SIGNS LTD,9791.0,6,Children's Social Care; Environment,Direct Transport Costs; Project,39164.0,general_procurement,1,False,none,,0.55
+MY SUPPORT AND CARE SERVICES,MY SUPPORT & CARE SERVICES (WEST COUNTRY) LTD,9788.52,3,Adult Social Care,Private Contractors,39154.08,care_or_education_placement,1,False,none,,0.604
+ELITE SYSTEMS,Elite Systems (GB) Ltd,9677.86,1,Community Services,Payment to contractor,38711.44,general_procurement,1,False,none,,0.667
+ASKEWS AND HOLTS LIBRARY SERVICES,Askews and Holts Library Services Ltd,9620.7,14,Community Services,Payment to contractor; Subscriptions,38482.8,general_procurement,1,False,none,,0.58
+MRS GEORGINA D FISHER,MRS GEORGINA D FISHER,9611.21,1,Education (DSG Funded) & Other Education Grants,Grants,38444.84,grant,1,False,none,,0.391
+FOSTER CARE ASSOCIATES,Foster Care Associates Limited,9603.880000000001,3,Children's Social Care,Private Contractors,38415.520000000004,care_or_education_placement,1,False,none,,0.524
+SOUTH EAST EMPLOYERS,SOUTH EAST EMPLOYERS,9600.0,1,Strategy & Governance,Subscriptions,38400.0,general_procurement,1,False,none,,0.4
+ASTOUNDING CARE SERVICES,Astounding Care Services Ltd,9526.52,4,Adult Social Care,Private Contractors,38106.08,care_or_education_placement,1,False,none,,0.667
+FIDELITI,FIDELITI LTD,9521.0,3,Strategy & Governance,Private Contractors,38084.0,general_procurement,1,False,none,,0.444
+RICOH,Ricoh UK Ltd,9473.16,1,"Transformation, Customer & ICT",Private Contractors,37892.64,general_procurement,1,False,exact,RICOH,1.0
+P APPLEYARD,P. APPLEYARD (TOFFS CATERING),9388.2,9,Community Services,Catering,37552.8,general_procurement,1,False,none,,0.545
+MCNAHA,Mcnaha Limited,9360.88,2,Children's Social Care,Private Contractors,37443.52,care_or_education_placement,1,False,none,,0.421
+EMS,EMS LTD,9359.65,3,Environment,Private Contractors,37438.6,general_procurement,1,False,none,,0.571
+OXFORD DIRECT SERVICES,Oxford Direct Services Limited,9356.0,1,Education & SEND,Payment to contractor,37424.0,general_procurement,1,False,none,,0.652
+POTTINGERS HIRE SERVICE,POTTINGER'S HIRE SERVICE,9352.5,8,Education & SEND,Transport Hire,37410.0,general_procurement,1,False,near_ratio,POTTINGERS HIRE SERVICES,0.979
+MJF RECORDS MANAGEMENT,MJF Records Management,9350.8,3,"Transformation, Customer & ICT",Archiving internal documents,37403.2,general_procurement,1,False,none,,0.462
+ALLIANCE LEISURE SERVICES,Alliance Leisure Services Limited,9350.0,3,Environment,Payment to contractor,37400.0,general_procurement,1,False,none,,0.653
+ZENA BENNETTS,ZENA BENNETTS,9294.61,3,Education (DSG Funded) & Other Education Grants,Grants,37178.44,grant,1,False,none,,0.467
+IN2CARE,IN2CARE LTD,9229.33,1,Education & SEND,Grants,36917.32,grant,1,False,none,,0.471
+SAFESPACES,Safespaces (Cornholme) Ltd,9205.81,1,Development & Housing,Minor Works,36823.24,general_procurement,1,False,none,,0.417
+FUNTASTIC KIDS,Funtastic Kids Ltd,9153.43,2,Education & SEND,Grants; Training Third Parties,36613.72,general_procurement,2,True,none,,0.41
+THEALE GREEN SCHOOL ACTIVATE LEARNING EDUCATION TRUST,THEALE GREEN SCHOOL - ACTIVATE LEARNING EDUCATION TRUST,9144.0,2,Education (DSG Funded) & Other Education Grants,Grants,36576.0,grant,1,False,none,,0.463
+MISS N A PIERCE,MISS N A PIERCE,9106.02,1,Education (DSG Funded) & Other Education Grants,Grants,36424.08,grant,1,False,none,,0.5
+TEMPLE LIFTS,Temple Lifts (Southern) Ltd,9030.28,3,Environment,Corporate R&M,36121.12,general_procurement,1,False,none,,0.5
+WENDY ELLIOTT,WENDY ELLIOTT,9029.2,1,Education (DSG Funded) & Other Education Grants,Grants,36116.8,grant,1,False,none,,0.476
+DPR CONSULTING SERVICES,DPR Consulting Services Ltd,9000.0,1,Executive Director People - Children's Services,Professional Fees,36000.0,general_procurement,1,False,none,,0.638
+SHARON SHEPPARD,SHARON SHEPPARD,8998.31,1,Education (DSG Funded) & Other Education Grants,Grants,35993.24,grant,1,False,none,,0.389
+HILLTOP HOUSE,Hilltop House Ltd,8964.97,5,Adult Social Care,Private Contractors,35859.88,care_or_education_placement,1,False,none,,0.438
+PINES RESIDENTIAL CARE HOME,The Pines Residential Care Home,8865.9,6,Adult Social Care,Private Contractors,35463.6,care_or_education_placement,1,False,none,,0.462
+ALLIED CARE SERVICES,Allied Care Services Limited T/A Ashamber Homes Ltd,8829.8,3,Adult Social Care,Private Contractors,35319.2,care_or_education_placement,1,False,none,,0.638
+REHABILITY COMMUNITY,Rehability UK Community Ltd,8826.2,3,Adult Social Care,Private Contractors,35304.8,care_or_education_placement,1,False,none,,0.408
+CARELINE,CARELINE,8823.1,10,Adult Social Care,Private Contractors,35292.4,care_or_education_placement,1,False,none,,0.522
+COMFI CARS,COMFI CARS UK LIMITED,8820.0,5,Education & SEND,Transport Hire,35280.0,general_procurement,1,False,exact,COMFI CARS,1.0
+ASTON CARE,Aston Care Ltd,8773.33,3,Adult Social Care,Private Contractors,35093.32,care_or_education_placement,1,False,none,,0.588
+CHARMAINE LE ROUX,CHARMAINE LE ROUX,8767.22,1,Education (DSG Funded) & Other Education Grants,Grants,35068.88,grant,1,False,none,,0.483
+KAYLEE KINDER,KAYLEE KINDER,8744.44,2,Education (DSG Funded) & Other Education Grants,Grants,34977.76,grant,1,False,none,,0.444
+APPELLO,Appello T/As Careline Ltd,8741.0,1,Community Services,Private Contractors,34964.0,general_procurement,1,False,none,,0.421
+LITTLE ME DAY NURSERIES,Little Me Day Nurseries Ltd (Thatcham),8715.99,2,Education (DSG Funded) & Other Education Grants,Other agencies,34863.96,care_or_education_placement,1,False,none,,0.519
+AMY HAINES,AMY HAINES,8650.720000000001,3,Education (DSG Funded) & Other Education Grants,Grants,34602.880000000005,grant,1,False,none,,0.571
+SSE ENERGY SOLUTIONS,SSE ENERGY SOLUTIONS,8646.32,8,Environment,Energy costs,34585.28,general_procurement,1,False,none,,0.619
+ASTRAL PS,Astral PS Ltd,8592.0,1,Development & Housing,IT,34368.0,general_procurement,1,False,none,,0.526
+STEPHANIE SPEAKE,Stephanie Speake,8512.02,1,Education (DSG Funded) & Other Education Grants,Grants,34048.08,grant,1,False,none,,0.432
+LUCIE MILLON,LUCIE MILLON,8498.45,1,Education (DSG Funded) & Other Education Grants,Grants,33993.8,grant,1,False,none,,0.467
+DUNRAVEN HOUSE,DUNRAVEN HOUSE,8490.470000000001,3,Adult Social Care,Private Contractors,33961.880000000005,care_or_education_placement,1,False,none,,0.5
+BDI SECURITIES,BDI Securities Ltd,8358.029999999999,3,Environment,Private Contractors,33432.119999999995,general_procurement,1,False,none,,0.514
+KENNET SCHOOL,KENNET SCHOOL,8344.0,4,Education (DSG Funded) & Other Education Grants,Grants,33376.0,grant,1,False,none,,0.485
+STROKE CARE FOR NEWBURY AND WEST BERKSHIRE,STROKE CARE FOR NEWBURY AND WEST BERKSHIRE,8332.5,1,Adult Social Care,Voluntary Associations,33330.0,care_or_education_placement,1,False,none,,0.516
+EE,EE Ltd,8312.11,3,"Transformation, Customer & ICT",Telephones,33248.44,general_procurement,1,False,none,,0.5
+ELEGANT CARE SERVICES,Elegant Care Services Ltd,8184.0,2,Adult Social Care,Private Contractors,32736.0,care_or_education_placement,1,False,none,,0.578
+HORSEMAN COACHES,HORSEMAN COACHES LTD,8176.72,2,Education & SEND,Transport Hire,32706.88,general_procurement,1,False,exact,HORSEMAN COACHES,1.0
+ARNFIELD CARE,ARNFIELD CARE LTD,8144.120000000001,2,Children's Social Care,Allowances for provision care; Private Contractors,32576.480000000003,care_or_education_placement,2,True,none,,0.56
+NCER,NCER,8127.22,1,Education & SEND,Subscriptions,32508.88,general_procurement,1,False,none,,0.5
+CHIPSIDE,Chipside Ltd,8063.76,7,Environment,Private Contractors,32255.04,general_procurement,1,False,none,,0.455
+MANDY VAN KEMPEN,MANDY VAN KEMPEN,8060.879999999999,3,Education (DSG Funded) & Other Education Grants,Grants,32243.519999999997,grant,1,False,none,,0.444
+MAIDEN ERLEGH TRUST TA JOHN RANKIN SCHOOLS,Maiden Erlegh Trust TA John Rankin Schools,8046.87,3,Education (DSG Funded) & Other Education Grants,Grants; IT,32187.48,grant,2,True,none,,0.394
+PREPAID FINANCIAL SERVICES,PREPAID FINANCIAL SERVICES,8010.0,9,Adult Social Care; Development & Housing,Grants; Purchase - Equipment,32040.0,general_procurement,2,True,none,,0.56
+SYNCARE,SYNCARE T/A REDLAND HEALTHCARE LTD,8002.55,11,Adult Social Care,Cleaning; Clothing; Purchase - Equipment,32010.2,general_procurement,1,False,none,,0.444
+E WALLET,E-WALLET,8000.0,4,Children's Social Care,Allowances for provision care,32000.0,general_procurement,1,False,none,,0.421
+TEEN PROJECT,The Teen Project CIC,7999.0,1,Public Health & Wellbeing,Professional Fees,31996.0,general_procurement,1,False,none,,0.522
+ENGLEFIELD ESTATE LP,ENGLEFIELD ESTATE LP,7990.25,1,Development & Housing,Rents,31961.0,premises_non_procurement,1,False,none,,0.375
+WENDY KIM ELLIOTT,WENDY KIM ELLIOTT,7983.36,3,Education (DSG Funded) & Other Education Grants,Grants,31933.44,grant,1,False,none,,0.429
+CHUBB FIRE AND SECURITY,Chubb Fire & Security Ltd,7870.02,4,"Environment; Transformation, Customer & ICT",Corporate R&M; IT; Repairs - Equipment,31480.08,general_procurement,1,False,none,,0.512
+KCARE NURSING AGENCY,KCARE NURSING AGENCY LTD,7828.42,8,Adult Social Care,Private Contractors,31313.68,care_or_education_placement,1,False,none,,0.455
+PINNACLE HOUSING CA STERLING GARDEN RENT,PINNACLE HOUSING LIMITED CA STERLING GARDEN RENT,7774.040000000001,4,Development & Housing,Contributions; Grants,31096.160000000003,general_procurement,2,True,none,,0.438
+SMS ENVIRONMENTAL,SMS-Environmental Ltd,7758.91,7,"Adult Social Care; Development & Housing; Finance, Property & Procurement",Corporate R&M,31035.64,general_procurement,1,False,exact,SMS ENVIRONMENTAL,1.0
+GLOUCESTERSHIRE COUNTY COUNCIL,GLOUCESTERSHIRE COUNTY COUNCIL,7690.28,1,Adult Social Care,Private Contractors,30761.12,care_or_education_placement,1,False,none,,0.438
+AERO PROPERTY CONSULTANTS,AERO PROPERTY CONSULTANTS,7680.0,5,Education & SEND,Consultants,30720.0,general_procurement,1,False,none,,0.474
+RGC CONSTRUCTION,RGC CONSTRUCTION,7655.8,1,Development & Housing,Minor Works,30623.2,general_procurement,1,False,none,,0.824
+YOUNG GIANTS,Young Giants Ltd.,7633.0,6,Education (DSG Funded) & Other Education Grants,Other agencies,30532.0,care_or_education_placement,1,False,none,,0.545
+BURGHFIELD AND MORTIMER H BUS,BURGHFIELD AND MORTIMER H/BUS,7612.65,1,Environment,Voluntary Associations,30450.6,general_procurement,1,False,none,,0.444
+PEEP LEARNING,Peep Learning Ltd,7600.0,1,Children's Social Care,Project,30400.0,general_procurement,1,False,none,,0.692
+LINDSAY ORIORDAN,LINDSAY O'RIORDAN,7572.61,1,Education (DSG Funded) & Other Education Grants,Grants,30290.44,grant,1,False,none,,0.439
+DEBORAH CALDER,DEBORAH CALDER,7572.31,1,Education (DSG Funded) & Other Education Grants,Grants,30289.24,grant,1,False,none,,0.533
+WYNNE WILLIAMS ASSOCIATES,WYNNE-WILLIAMS ASSOCIATES,7511.0,3,Education & SEND,Consultants; Survey,30044.0,general_procurement,1,False,none,,0.4
+ABBEYFIELD SOCIETY WINNERSH,The Abbeyfield Society - Winnersh,7469.380000000001,3,Adult Social Care,Private Contractors,29877.520000000004,care_or_education_placement,1,False,none,,0.413
+BARCHESTER HEALTHCARE ROTHSAY GRANGE,Barchester Healthcare - Rothsay Grange,7420.219999999999,3,Adult Social Care,Private Contractors,29680.879999999997,care_or_education_placement,1,False,none,,0.452
+B L I S S SUPPORT SERVICES,B.L.I.S.S. Support Services Limited,7414.37,1,Adult Social Care,Private Contractors,29657.48,care_or_education_placement,1,False,none,,0.588
+ALEXANDERS SUPPORTED LIVING,Alexander's Supported Living Ltd,7395.13,3,Adult Social Care,Private Contractors,29580.52,care_or_education_placement,1,False,none,,0.524
+OLIVIA HOPKINS,OLIVIA HOPKINS,7390.02,3,Education (DSG Funded) & Other Education Grants,Grants,29560.08,grant,1,False,none,,0.417
+METRIC GROUP,METRIC GROUP LTD,7361.3,3,Environment,Corporate R&M; Payment to contractor; Repairs - Equipment,29445.2,general_procurement,1,False,none,,0.545
+ADF ENVIRONMENTAL,ADF ENVIRONMENTAL LTD,7345.0,4,"Development & Housing; Education & SEND; Finance, Property & Procurement",Consultants; Payment to contractor; Survey,29380.0,general_procurement,1,False,none,,0.824
+MISS L A JAY,MISS L A JAY,7324.02,3,Education (DSG Funded) & Other Education Grants,Grants,29296.08,grant,1,False,none,,0.4
+TUSKERDIRECT,Tuskerdirect Ltd,7320.32,4,Strategy & Governance,Private Contractors,29281.28,general_procurement,1,False,none,,0.538
+CHURCHEND PRIMARY SCHOOL,Churchend Primary School (Orchard Learning Alliance),7256.29,1,Education (DSG Funded) & Other Education Grants,Other agencies,29025.16,care_or_education_placement,1,False,none,,0.408
+CAREBUS VOLUNTEER GROUP,CAREBUS VOLUNTEER GROUP,7252.63,1,Environment,Voluntary Associations,29010.52,general_procurement,1,False,none,,0.455
+MRS D C HUTCHINS,MRS D C HUTCHINS,7241.55,1,Education (DSG Funded) & Other Education Grants,Grants,28966.2,grant,1,False,none,,0.483
+CAMBURG COLLECTIVE,Camburg Collective Limited,7150.0,1,Executive Director - Resources,Professional Fees,28600.0,general_procurement,1,False,none,,0.462
+CALL US,CALL US,7084.2,4,Adult Social Care,Private Contractors,28336.8,care_or_education_placement,1,False,none,,0.556
+ARLINGCLOSE,Arlingclose Ltd,7050.0,1,"Finance, Property & Procurement",Professional Fees,28200.0,general_procurement,1,False,none,,0.526
+MRS R CAIN,MRS R CAIN,6945.05,1,Education (DSG Funded) & Other Education Grants,Grants,27780.2,grant,1,False,none,,0.56
+LAURA WEBB,LAURA WEBB,6902.87,1,Education (DSG Funded) & Other Education Grants,Grants,27611.48,grant,1,False,none,,0.538
+ELSTREE SCHOOL,ELSTREE SCHOOL,6776.43,1,Education (DSG Funded) & Other Education Grants,Grants,27105.72,grant,1,False,none,,0.5
+GOLDEN LANE HOUSING,GOLDEN LANE HOUSING,6764.42,5,Adult Social Care,Private Contractors,27057.68,care_or_education_placement,1,False,none,,0.688
+FIELDWORK REST AND PLAY,FIELDWORK REST & PLAY LTD,6760.0,2,Environment,Repairs - Equipment,27040.0,general_procurement,1,False,none,,0.458
+HENLEY ON THAMES SURVEYORS,Henley on Thames Surveyors Ltd Trading as Henley Surveying and Design Services,6700.0,4,Community Services,Professional Fees,26800.0,general_procurement,1,False,none,,0.439
+ALISON CONQUER,ALISON CONQUER,6676.56,1,Education (DSG Funded) & Other Education Grants,Grants,26706.24,grant,1,False,none,,0.514
+A34 PCN,A34 PCN,6670.21,1,Adult Social Care,IT,26680.84,general_procurement,1,False,none,,0.429
+WASHCO,WASHCO,6653.0,4,Adult Social Care; Children's Social Care,Equipment Rentals; Purchase - Equipment,26612.0,general_procurement,2,True,none,,0.444
+ACCESS,ACCESS UK LIMITED,6650.0,2,Adult Social Care - Transformation Projects,IT; Professional Fees,26600.0,general_procurement,1,False,none,,0.462
+LORAINE BROWN,Loraine Brown,6638.35,1,Education (DSG Funded) & Other Education Grants,Grants,26553.4,grant,1,False,none,,0.476
+RAIL SETTLEMENT,Rail Settlement,6607.0,2,Children's Social Care,Public Transport,26428.0,general_procurement,1,False,none,,0.414
+MS NATASHA BUCKLEY,MS NATASHA BUCKLEY,6593.8,1,Education (DSG Funded) & Other Education Grants,Grants,26375.2,grant,1,False,none,,0.457
+INTELLIDENT,Intellident Ltd t/a Bibliotheca,6571.0,1,Community Services,IT,26284.0,general_procurement,1,False,none,,0.4
+R AND G SMITH,R & G SMITH (SOUTHERN) LTD,6565.0,2,Community Services,Corporate R&M,26260.0,general_procurement,1,False,none,,0.545
+KINGDOM YOUTH SERVICES,Kingdom Youth Services Ltd,6555.71,1,Children's Social Care,Private Contractors,26222.84,care_or_education_placement,1,False,none,,0.609
+RECOVERY IN MIND 2016,RECOVERY IN MIND 2016 CIC,6552.0,1,Education & SEND,Grants,26208.0,grant,1,False,none,,0.421
+RYGOR COMMERCIALS,Rygor Commercials Ltd,6545.139999999999,5,Environment,Direct Transport Costs,26180.559999999998,general_procurement,1,False,none,,0.467
+KENVER HOUSE,Kenver House Ltd,6489.17,3,Adult Social Care,Private Contractors,25956.68,care_or_education_placement,1,False,none,,0.452
+SSE POWER DISTRIBUTION,SSE POWER DISTRIBUTION LIMITED,6441.47,1,Environment,Payment to contractor,25765.88,general_procurement,1,False,none,,0.55
+MRS L PEPPER,MRS L PEPPER,6403.92,1,Education (DSG Funded) & Other Education Grants,Grants,25615.68,grant,1,False,none,,0.385
+DOWNLAND VOLUNTEER GROUP,DOWNLAND VOLUNTEER GROUP,6387.2,1,Environment,Voluntary Associations,25548.8,general_procurement,1,False,none,,0.409
+NAGELS,Nagels (UK) Ltd,6385.0,1,Environment,Private Contractors,25540.0,general_procurement,1,False,none,,0.5
+EDINGTON SPINK AND HYNE,EDINGTON SPINK & HYNE LIMITED,6370.0,2,Education & SEND,Survey,25480.0,general_procurement,1,False,none,,0.419
+ALL SEASONS CARE SERVICES,All Seasons Care Services Limited,6343.67,5,Adult Social Care,Private Contractors,25374.68,care_or_education_placement,1,False,none,,0.6
+LAURA VAN EYCK,LAURA VAN EYCK,6299.37,1,Education (DSG Funded) & Other Education Grants,Grants,25197.48,grant,1,False,none,,0.533
+MRS JUDY TIDBURY,MRS JUDY TIDBURY,6286.9,1,Education (DSG Funded) & Other Education Grants,Grants,25147.6,grant,1,False,none,,0.378
+READING REFUGEE SUPPORT GROUP,Reading Refugee Support Group,6279.599999999999,8,Development & Housing,Private Contractors,25118.399999999998,general_procurement,1,False,none,,0.44
+LOCATE ACCOMMODATION,Locate Accommodation Limited,6279.42,4,Children's Social Care,Private Contractors,25117.68,care_or_education_placement,1,False,none,,0.474
+SEABROOK SERVICES,Seabrook Services Ltd,6258.24,2,Adult Social Care,Private Contractors,25032.96,care_or_education_placement,1,False,none,,0.583

@@ -1,0 +1,43 @@
+{
+  "generated_at": "fixture",
+  "memo": {
+    "objective": "Assess whether purchases follow the Contract Procedure Rules where the spend data shows indicators of split purchases and repeat payments [rule:CPR-11] [rule:CPR-30].",
+    "approach": "Targeted testing of the flagged windows [metric:$.tests.split_purchases.per_threshold[?threshold==25000].headline_general_procurement.windows] and repeat-amount groups [metric:$.tests.duplicates.per_tier.different_time.by_tag.general_procurement.groups], drawn from the full population.",
+    "limitations": "The data covers {{$.population.months_covered|int}} months of payments and no contract register is available [metric:$.contracts.register_present]."
+  },
+  "risks": [
+    {
+      "risk_id": "R-01",
+      "controls": [
+        {"control_id": "C-01-1", "description": "Requirements are valued as a whole before the procurement route is chosen; disaggregation is not used to fall under a threshold [rule:CPR-11]."},
+        {"control_id": "C-01-2", "description": "Purchases at or above the quotation threshold follow the Appendix B route [rule:CPR-56] [rule:CPR-57]."}
+      ],
+      "tests": [
+        {"test_id": "T-01-1", "control_ids": ["C-01-1", "C-01-2"],
+         "step": "For each sampled window, establish whether the payments relate to one requirement and, if so, whether its total value was assessed and the Appendix B route followed [rule:CPR-11] [rule:CPR-56].",
+         "sample": {"source": "split_purchases.csv", "unit": "group",
+                    "filter": {"threshold": "$.tests.split_purchases.per_threshold[?threshold==25000].threshold", "tag": "general_procurement"},
+                    "sort": [{"by": "total_gbp", "desc": true}], "n": "auto"},
+         "pbc": ["Purchase orders and invoices for each sampled window", "Quotations or tender records for the requirement each window relates to"]}
+      ]
+    },
+    {
+      "risk_id": "R-02",
+      "controls": [
+        {"control_id": "C-02-1", "description": "Each payment is matched to a distinct approved invoice and order before release [rule:CPR-30]."}
+      ],
+      "tests": [
+        {"test_id": "T-02-1", "control_ids": ["C-02-1"],
+         "step": "Trace each payment in the sampled groups to a distinct invoice and order; record any credit or recovery [rule:CPR-30].",
+         "sample": {"source": "duplicates.csv", "unit": "group",
+                    "filter": {"tier": "different_time", "tag": "general_procurement"},
+                    "sort": [{"by": "gbp_beyond_first", "desc": true}], "n": "auto"},
+         "pbc": ["Invoices and purchase orders for each sampled payment", "Purchase orders and invoices for each sampled window"]}
+      ]
+    }
+  ],
+  "rules_not_tested": [
+    {"rule_id": "CPR-05", "reason": "Publication of spend over the reporting threshold is a transparency duty the payment sample does not test."},
+    {"rule_id": "CPR-55", "reason": "The lower quotation tier is below the competition threshold sampled in this plan."}
+  ]
+}
